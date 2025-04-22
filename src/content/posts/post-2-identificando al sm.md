@@ -32,15 +32,32 @@ Posterior a la reunión interna que se tuvo entre los involucrados en el proyect
 #### 2.4. Disponibilidad y Compromiso de las personas
 El equipo ha acordado trabajar en sprints de 3 semanas durante un período total de 3 meses. Los stakeholders clave, como el propietario de Diamond Barbershop y el personal involucrado en la operación del negocio, han mostrado su compromiso con el proyecto, asegurando su disponibilidad para reuniones de seguimiento, validación de avances y pruebas funcionales. Asimismo, los miembros del equipo Scrum han confirmado su disponibilidad semanal y su compromiso para llevar adelante el desarrollo de la aplicación de forma continua.
 
+#### 2.5. Matriz de las destrezas requeridas
+
+| Habilidad | Arian | Andre | Diego | Dafne | Formación requerida |
+|---------|-------|-------|-------|-------|---------------------|
+| Programación Java Android | Medio | Alto | Alto | Medio | No |
+| Spring Boot (Servicios REST) | Alto | Medio | Medio | Bajo | No |
+| Uso de MySQL | Alto | Alto | Alto | Alto | No |
+| Control de versiones con Git | Alto | Alto | Alto | Alto | No |
+| Scrum (roles y artefactos) | Alto | Bajo | Bajo | Alto | No |
+| Diseño UI/UX para móviles | Bajo | Medio | Medio | Bajo | No |
+
 ### Herramientas
-#### 2.5. Criterios de selección
+#### 2.6. Criterios de selección
+
+Los criterios de selección que hemos usado para determinar quién será nuestro Scrum Master son los siguientes:
+
+1. Habilidades para resolver problemas.
+2. Disponibilidad.
+3. Compromiso.
 
 ### Salidas
-#### 2.6. Scrum Master identificado
-El Scrum Master será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave. Por consiguiente, nuestro Scrum Master será Dafne Huertas Gonzales, debido a que cumple con todos los requisitos planteados por experiencia laboral y universitaria.
+#### 2.7. Scrum Master identificado
+El Scrum Master será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave. Por consiguiente, nuestro Scrum Master será **Dafne Huertas Gonzales**, debido a que cumple con todos los requisitos planteados por experiencia laboral y universitaria.
 - **Reunión para elección del Scrum Master**
  📷 Imagenes de [La reunión de elección del Scrum Master](https://drive.google.com/file/d/1pmTF5lISDfFUe6mt7At1ThlGu26HtGcK/view?usp=sharing)
 
-#### 2.7. Stakeholders identificados
+#### 2.8. Stakeholders identificados
 Los principales stakeholders son Jheremy Solis Quispe (dueño de la barbería y trabajador), así como trabajadores de la barbería que anteriormente también han sido clientes.
 

@@ -125,6 +125,7 @@ Posterior a la reunión interna que se tuvo entre los involucrados en el proyect
 - Cercanía al establecimiento, vive en Villa María del Triunfo
 
 ##### **Reunión para elección del Product Owner:**
+
  📷 Imagenes de [La reunión de elección del Product Owner](https://drive.google.com/file/d/1pmTF5lISDfFUe6mt7At1ThlGu26HtGcK/view?usp=sharing)
 
 #### 1.8. Declaración de la visión del proyecto

@@ -1,4 +1,4 @@
 ---
-title: "Authors"
-meta_title: "Authors"
+title: "Autores"
+meta_title: "Autores"
 ---
