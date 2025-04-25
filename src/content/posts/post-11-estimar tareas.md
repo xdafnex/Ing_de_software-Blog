@@ -22,6 +22,9 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 #### 11.2. Lista de tareas
 
+##### **Documento adjunto:**
+ 🗎 [Lista de tareas](https://docs.google.com/document/d/13kcMUfnRZqPO82gtG_O_uhdJR9_KxcBOjKyReX__78M/edit?usp=sharing)
+
 #### 11.3. Criterios de aceptación
 
 ##### **Documento adjunto:**
