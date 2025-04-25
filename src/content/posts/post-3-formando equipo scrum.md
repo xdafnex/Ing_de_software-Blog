@@ -4,10 +4,11 @@ meta_title: ""
 description: "meta description"
 date: 2025-04-19T06:00:00+00:00
 image: "/images/posts/03.png"
-categories: ["scrum", "team"]
+categories: ["sprint-1"]
 authors: ["Dafne Huertas"]
 tags: ["scrum", "team"]
 draft: false
+
 ---
 
 ### Entradas

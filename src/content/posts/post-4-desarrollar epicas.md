@@ -4,10 +4,10 @@ meta_title: ""
 description: "meta description"
 date: 2025-04-19T07:00:00+00:00
 image: "/images/posts/04.jpg"
-draft: false
 authors: ["Dafne Huertas"]
 tags: ["Scrum", "Épicas"]
-categories: ["Scrum"]
+draft: false
+categories: ["sprint-1"]
 ---
 ### Entradas
 
@@ -45,7 +45,7 @@ Posterior a la reunión entre todos los integrantes del equipo Scrum, se estable
 
 **1. Autenticación y maquetas móviles**
 
-Descripción: En esta épica se implementa el flujo de acceso al sistema mediante login, diferenciando los roles de cliente y administrador. Incluye el desarrollo de la API de autenticación en Spring Boot, la conexión con la base de datos de usuarios, y la creación de las pantallas base (mockups) en Android para cada rol. Al cierre, los usuarios podrán iniciar sesión correctamente y navegar a sus respectivas vistas iniciales.
+Descripción: En esta épica se implementa el flujo de acceso al sistema mediante login, diferenciando los roles de cliente y administrador. Incluye el desarrollo de la API de autenticación en Spring Boot, la conexión con la base de datos de usuarios, y la creación de las pantallas base (mockups) en multiplataforma para cada rol. Al cierre, los usuarios podrán iniciar sesión correctamente y navegar a sus respectivas vistas iniciales.
 
 **2. Gestión de servicios y barberos**
 

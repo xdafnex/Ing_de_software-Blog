@@ -4,7 +4,7 @@ meta_title: ""
 description: "meta description"
 date: 2025-04-20T07:00:00+00:00
 image: "/images/posts/07.jpg"
-categories: ["Backlog"]
+categories: ["sprint-1"]
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Historias de usuario"]
 draft: false

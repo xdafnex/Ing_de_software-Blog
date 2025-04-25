@@ -4,7 +4,7 @@ meta_title: ""
 description: "En este apartado se definirá la visión del proyecto, los objetivos, los objetivos específicos y la solución tecnológica propuesta."
 date: 2025-04-19T05:00:00Z
 image: "/images/posts/01.png"
-
+categories: ["sprint-1"]
 authors: ["Dafne Huertas"]
 tags: ["vision", "proyecto"]
 draft: false
@@ -38,7 +38,7 @@ El objetivo general del proyecto es desarrollar una aplicación móvil que digit
 - Acceder mediante login privado (solo personal autorizado).
 
 ##### 1.1.5. Solución Tecnológica Propuesta
-Para cumplir con los objetivos del proyecto, se plantea el desarrollo de una aplicación móvil nativa en Android utilizando Java como lenguaje principal, acompañada de un backend desarrollado con Spring Boot y una base de datos MySQL.
+Para cumplir con los objetivos del proyecto, se plantea el desarrollo de una aplicación móvil nativa en multiplataforma utilizando Java como lenguaje principal, acompañada de un backend desarrollado con Spring Boot y una base de datos MySQL.
 
 ###### Justificación técnica:
 

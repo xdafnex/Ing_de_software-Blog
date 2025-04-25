@@ -1,11 +1,11 @@
 {
   "main": [
     {
-      "name": "Sprint 1",
-      "url": "/"
+      "name": "Sprint1",
+      "url": "/sprint-1"
     },
     {
-      "name": "About",
+      "name": "Sprint 2",
       "url": "/about"
     },
     {
@@ -18,8 +18,24 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Autores",
+          "name": "Authors",
           "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Tags",
+          "url": "/tags"
+        },
+        {
+          "name": "Elements",
+          "url": "/elements"
+        },
+        {
+          "name": "Privacy Policy",
+          "url": "/privacy-policy"
         }
       ]
     }

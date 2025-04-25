@@ -7,6 +7,7 @@ image: "/images/posts/02.jpg"
 authors: ["Dafne Huertas"]
 tags: ["scrum master", "stakeholder"]
 draft: false
+categories: ["sprint-1"]
 ---
 ### Entradas
 

@@ -7,7 +7,7 @@ image: "/images/posts/06.jpg"
 draft: false
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Priorización"]
-categories: ["Backlog"]
+categories: ["sprint-1"]
 ---
 
 ### Entradas
