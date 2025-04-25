@@ -15,7 +15,16 @@ type Props = {
 
 const authors = await getSinglePage("authors");
 const { summary_length } = config.settings;
-const { className, posts, fluid } = Astro.props;
+const { className, posts: rawPosts, fluid } = Astro.props;
+
+// Ordenar los posts por número extraído del ID
+const posts = [...rawPosts].sort((a, b) => {
+  const getPostNumber = (id: string) => {
+    const match = id.match(/^post-(\d+)/);
+    return match ? parseInt(match[1]) : 0;
+  };
+  return getPostNumber(a.id) - getPostNumber(b.id);
+});
 ---
 
 <div

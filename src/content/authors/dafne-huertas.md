@@ -9,4 +9,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Estudiante de la carrera de ingenieria de sistemas, actualmente cursando el 8vo semestre.
+Estudiante de la carrera de ingenieria de sistemas, actualmente cursando el 8vo semestre. Delegada al cargo de Scrum Master en el presente proyecto.
