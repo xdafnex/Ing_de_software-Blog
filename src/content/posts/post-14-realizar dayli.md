@@ -23,10 +23,11 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 14.2. Scrum Master
 Dafne Huertas Gonzales, es el Scrum Master en base a su experiencia en la gestión de proyectos ágiles, su capacidad para coordinar equipos multidisciplinarios, y habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave, como el administrador de la barbería
 
-#### 14.3. Sprint Burndown Chart
+#### 14.3. Impediment Log
+En este caso, el Impediment Log permitió identificar y documentar los problemas específicos surgidos en el proyecto de digitalización de la biblioteca, asegurando un seguimiento claro de los desafíos técnicos, humanos y operativos que impactan el progreso del equipo. Gracias a ello, se facilita la planificación e implementación de acciones correctivas para abordar estos impedimentos de forma oportuna.
 
-#### 14.4. Impediment Log
-
+##### **Documento adjunto:**
+ 🗎 [Impediment Log](https://docs.google.com/document/d/1NGY7rBVbBYJsBGKTrMk5p1wSgBs73J6kPsenyy54Ayg/edit?usp=sharing)
 ### Herramientas
 
 #### 14.5. Daily Standup

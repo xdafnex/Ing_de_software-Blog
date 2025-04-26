@@ -21,7 +21,10 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 - Desarrollador Móvil 2: Andre Fernandez
 
 #### 12.2. Effort Estimated Task List
+La lista de tareas estimadas en función del esfuerzo requerido resulta fundamental para una planificación eficiente del sprint. A continuación, se expone un documento con las estimaciones asignadas a las historias de usuario y sus respectivas tareas, las cuales fueron determinadas mediante la técnica de Planning Poker.
 
+##### **Documento adjunto:**
+ 🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1ldnBEMuoqIU7thROI8R7ghH0zTYu_l0w/view?usp=sharing)
 
 #### 12.3. Duración del sprint
 Se estableció dadas las fechas del ciclo universitario que la duración de los sprints será de 3 semanas cada uno.
@@ -29,12 +32,6 @@ Se estableció dadas las fechas del ciclo universitario que la duración de los 
 | Sprint     | Fecha de inicio | Fecha de fin | Fecha de lanzamiento |
 |------------|------------------|---------------|------------------------|
 | Sprint 1   | 12 de abril      | 25 de abril   | 26 de abril            |
-
-#### 12.4. Dependencias
-
-
-#### 12.5. Calendario del equipo
-
 
 ### Herramientas
 
@@ -51,6 +48,14 @@ Se realizó el seguimiento del sprint utilizando el método Scrumboard, ya que t
 ### Salidas
 
 #### 12.9. Sprint Backlog
+El Sprint Backlog incluye:
+- Historias de usuario comprometidas.
+- Tareas identificadas y asignadas a los miembros del equipo.
+- Estimaciones de esfuerzo para cada tarea.
 
-#### 12.10. Sprint Burndown Chart 
+##### **Documento adjunto:**
+ 🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1__MzhRnwPPGiTvqDhT_Zg034O3w0nZh4/edit?usp=sharing&ouid=111875259941884054133&rtpof=true&sd=true)
+
+Este documento se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
+ 
 

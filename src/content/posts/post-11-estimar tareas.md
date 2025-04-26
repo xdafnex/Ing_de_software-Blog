@@ -43,3 +43,8 @@ Se realizó una reunión realizando Planning Poker para las estimaciones de las 
 ### Salidas
 
 #### 11.6. Effort Estimated Task List
+La lista de tareas estimadas en función del esfuerzo requerido resulta fundamental para una planificación eficiente del sprint. A continuación, se expone un documento con las estimaciones asignadas a las historias de usuario y sus respectivas tareas, las cuales fueron determinadas mediante la técnica de Planning Poker.
+
+##### **Documento adjunto:**
+ 🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1ldnBEMuoqIU7thROI8R7ghH0zTYu_l0w/view?usp=sharing)
+
