@@ -28,10 +28,14 @@ En este caso, el Impediment Log permitió identificar y documentar los problemas
 
 ##### **Documento adjunto:**
  🗎 [Impediment Log](https://docs.google.com/document/d/1NGY7rBVbBYJsBGKTrMk5p1wSgBs73J6kPsenyy54Ayg/edit?usp=sharing)
+
 ### Herramientas
 
-#### 14.5. Daily Standup
+#### 14.4. Daily Standup
 El Daily Standup es una reunión corta que se realiza diariamente, en la cual el equipo de desarrollo expone las actividades realizadas el día anterior, las tareas en curso y cualquier dificultad que pueda estar afectando el progreso. En el proyecto de sistema de gestion para una barbería, estas reuniones son clave para mantener la alineación del equipo, facilitar la resolución ágil de inconvenientes y asegurar el avance continuo de las tareas, promoviendo así un desarrollo sostenido del sistema.
+
+##### **Documento adjunto:**
+ 🗎 [Daily Standup](https://docs.google.com/spreadsheets/d/1VJSOyAcDWuh6PMJyDNNBtCIdm6VjR92oBmLRf1PWv5U/edit?usp=sharing)
 
 #### 14.6. Tres preguntas diarias
 
@@ -41,6 +45,7 @@ El Daily Standup es una reunión corta que se realiza diariamente, en la cual el
 
 ### Salidas
 
-#### 14.7. Sprint Burndown Chart actualizado
-
 #### 14.8. Impediment Log actualizado
+
+##### **Documento adjunto:**
+ 🗎 [Impediment Log actualizado](https://docs.google.com/document/d/1NGY7rBVbBYJsBGKTrMk5p1wSgBs73J6kPsenyy54Ayg/edit?usp=sharing)
