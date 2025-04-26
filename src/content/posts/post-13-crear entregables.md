@@ -34,7 +34,7 @@ Este documento se actualizará a medida que avanzamos en el sprint, permitiendo 
 #### 13.3. Scrumboard 
 El Scrumboard desempeña un papel fundamental al permitir visualizar el avance del trabajo, fortalecer la colaboración y comunicación del equipo, detectar posibles obstáculos y garantizar que las actividades se mantengan alineadas con los objetivos del sprint. Asimismo, contribuye a una mejor planificación y fomenta la transparencia, la capacidad de adaptación y la eficiencia en el desempeño del equipo.
 
-(inserte imagen)
+ 📷 Imagenes de [Reunion de scrumboard](https://drive.google.com/file/d/1Bhq8rUC7CIIXoD_D4ZyCmcOz2aKdrgE2/view?usp=sharing)
 
 #### 13.4. Impediment Log
 En este caso, el Impediment Log permitió identificar y documentar los problemas específicos surgidos en el proyecto de digitalización de la biblioteca, asegurando un seguimiento claro de los desafíos técnicos, humanos y operativos que impactan el progreso del equipo. Gracias a ello, se facilita la planificación e implementación de acciones correctivas para abordar estos impedimentos de forma oportuna.
