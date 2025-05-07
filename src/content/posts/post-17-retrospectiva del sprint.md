@@ -25,7 +25,11 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 - Desarrollador Móvil 2: Andre Fernandez
 
 #### 17.3. Salidas de demostrar y validar el sprint
+La salida de demostrar y validar el Sprint 1 incluye los entregables aceptados y los acuerdos de mejoras accionables acordados por el equipo Scrum.
+En el siguiente documento se muestra la salida de la demostración y validación del Sprint 1:
 
+##### **Documento adjunto:**
+ 🗎 [Salidad de demotrar y validar el Sprint](https://docs.google.com/document/d/12FphjNwrjjYWQQ0MrDEF9KtwsNYMQ5UcIUX2SQ1AGJ4/edit?usp=sharing)
 
 #### 17.4. Product Owner
 
@@ -41,3 +45,6 @@ Durante esta sesión, se llevó a cabo un análisis detallado del sprint más re
 ### Salidas
 
 #### 17.6. Agreed Actionable Improvements
+
+##### **Documento adjunto:**
+ 🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/1yzMuYtuogaWg7vcqj-XWm-rVurxXekNe81_jY6LWBpA/edit?usp=sharing)

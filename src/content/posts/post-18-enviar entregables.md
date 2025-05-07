@@ -21,6 +21,9 @@ Jheremy Solis Quispe, es el dueño de la barbería y trabajador, así como tambi
 
 #### 18.3. Entregables aceptados
 
+##### **Documento adjunto:**
+ 🗎 [Entregables aceptados](https://docs.google.com/document/d/1Z_sHSYe6VMtCNu0fYu1C6ZnVidf4X-loNdtaLss-2t4/edit?usp=sharing)
+
 
 #### 18.4. Cronograma de planificación de lanzamiento
 
@@ -44,7 +47,14 @@ Jheremy Solis Quispe, es el dueño de la barbería y trabajador, así como tambi
 ### Herramientas
 
 #### 18.5. Metodos de desplazamiento organizacional 
+Los métodos de desplazamiento organizacional permiten a las empresas reorganizar a su personal de manera estratégica para mejorar el desempeño, adaptarse a cambios internos o externos y aprovechar mejor el talento disponible. A través de acciones como reubicaciones, promociones o rotaciones, se busca mantener la eficiencia operativa, motivar a los colaboradores y responder de forma flexible a las necesidades del negocio.
+
+##### **Documento adjunto:**
+ 🗎 [Metodos de desplazamiento](https://docs.google.com/spreadsheets/d/1ljK7FVcrSNB4Dd5VmS-fO661X6DieMR-lG1jqhuqfOE/edit?usp=sharing)
 
 ### Salidas
 
 #### 18.6. Acuerdos de entregables funcionales
+
+##### **Documento adjunto:**
+ 🗎 [Acuerdos de entregables funcionales](https://docs.google.com/document/d/1kficDsG4o8HgLF2_rCL2KY9kgVxLn7oTaoKsJUMQkBI/edit?usp=sharing)

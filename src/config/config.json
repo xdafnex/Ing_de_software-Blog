@@ -5,8 +5,8 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "",
-    "logo": "",
-    "logo_width": "200",
+    "logo": "/images/diamondLogo.png",
+    "logo_width": "34",
     "logo_height": "34",
     "logo_text": "BarberShop Diamond"
   },

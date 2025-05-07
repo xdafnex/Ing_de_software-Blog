@@ -23,8 +23,21 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 #### 16.2. Entregables del sprint
 
+##### **Documento adjunto:**
+ 🗎 [Entregables del Sprint](https://docs.google.com/document/d/1GrJ8CnBmwXraEQed3YCZfEW0xV4mgp1_VOEwMIaE_yI/edit?usp=sharing)
+
 
 #### 16.3. Sprint Backlog
+
+El Sprint Backlog incluye:
+- Historias de usuario comprometidas.
+- Tareas identificadas y asignadas a los miembros del equipo.
+- Estimaciones de esfuerzo para cada tarea.
+
+##### **Documento adjunto:**
+ 🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1__MzhRnwPPGiTvqDhT_Zg034O3w0nZh4/edit?usp=sharing&ouid=111875259941884054133&rtpof=true&sd=true)
+
+ Este documento se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
 #### 16.4. Criterios de terminado
 
@@ -62,7 +75,9 @@ En las reuniones de revisión del sprint, participan los integrantes del equipo 
 
 (inserte imagen)
 
-
 ### Salidas
 
 #### 16.8. Entregables aceptados
+
+##### **Documento adjunto:**
+ 🗎 [Entregables aceptados](https://docs.google.com/document/d/1Z_sHSYe6VMtCNu0fYu1C6ZnVidf4X-loNdtaLss-2t4/edit?usp=sharing)
