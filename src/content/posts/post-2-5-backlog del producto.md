@@ -2,7 +2,7 @@
 title: "5. Crear el Backlog Priorizado del Producto"
 meta_title: ""
 description: "meta description"
-date: 2025-04-19T07:00:00+00:00
+date: 2025-04-28T07:00:00+00:00
 image: "/images/posts/05-2.jpg"
 draft: false
 authors: ["Dafne Huertas"]
@@ -32,7 +32,9 @@ Posterior a la reunión entre todos los integrantes del equipo Scrum, se estable
 ### Herramientas
 
 #### 5.3. Reuniones de grupo de usuarios
-(inserte imagen)
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reuniones de grupo de usuarios" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 
 ### Salidas

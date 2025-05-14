@@ -2,7 +2,7 @@
 title: "4. Desarrollar Épicas"
 meta_title: ""
 description: "meta description"
-date: 2025-04-19T07:00:00+00:00
+date: 2025-04-28T07:00:00+00:00
 image: "/images/posts/04-2.png"
 authors: ["Dafne Huertas"]
 tags: ["Scrum", "Épicas"]
@@ -59,4 +59,7 @@ Descripción: Esta épica abarca el “carrito de reserva” para que el cliente
 
 Descripción: En la última fase se implementa el historial de citas por cliente y la lógica de recompensas (corte gratis cada 10 citas), además de los reportes de ingresos. El administrador obtiene vistas filtrables por cliente, fecha o servicio, mientras el cliente ve en su perfil cuántas citas lleva acumuladas y cuándo alcanza su siguiente beneficio. Se incluyen ajustes finales de interfaz y optimización de rendimiento.
 
- 📷 Imagenes de [épicas en Jira](https://drive.google.com/file/d/1B-KF8Ogk_Un40hqgDYDLOOSm-vRAYFsX/view?usp=sharing)
+ 📷 Imagenes de [épicas en Jira]
+ <img src="/images/sprint_2/epica_historia.png" 
+     alt="Epicas en Jira" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

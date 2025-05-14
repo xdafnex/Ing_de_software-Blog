@@ -2,7 +2,7 @@
 title: "1. Creando la vision del proyecto"
 meta_title: ""
 description: "En este apartado se definirá la visión del proyecto, los objetivos, los objetivos específicos y la solución tecnológica propuesta."
-date: 2025-04-19T05:00:00Z
+date: 2025-04-28T05:00:00Z
 image: "/images/posts/01-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -57,36 +57,14 @@ Para cumplir con los objetivos del proyecto, se plantea el desarrollo de una apl
 ### Herramientas
 
 #### 1.4. Reunion de vision del proyecto
-(inserte imagen)
+<img src="/images/sprint_2/reunion_mas_stakeholder.jpg" 
+     alt="Reunión de elección del Scrum Master" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 1.5. Análisis FODA
-##### Fortalezas
-- Ubicación accesible en una zona con alto tránsito de personas.
-- Barberos con experiencia y trato directo con los clientes.
-- Relación cercana y de confianza entre barberos y clientes.
-- Costos operativos relativamente bajos debido a una estructura sencilla.
-- Flexibilidad en los horarios de atención.
-
-##### Oportunidades
-- Implementación de un sistema de reservas para ordenar el flujo de atención.
-- Digitalización de pagos, agendas y control de servicios para mayor transparencia.
-- Fidelización de clientes mediante recordatorios, promociones y seguimiento.
-- Diferenciación frente a la competencia al ofrecer una experiencia más moderna.
-- Potencial expansión de servicios (venta de productos, promociones, combos).
-
-##### Debilidades
-- Gestión administrativa limitada (registro manual de pagos y citas).
-- Falta de control automatizado sobre el flujo de dinero y reservas.
-- Ausencia de historial de clientes o métricas de rendimiento.
-- Posible desorganización en la atención por no contar con una agenda digital.
-- Dependencia de los barberos para cobros y coordinación.
-
-##### Amenazas
-- Competencia cercana con precios similares o servicios más tecnológicos.
-- Cambios en el comportamiento del cliente (más exigente con el tiempo y la puntualidad).
-- Riesgo de errores en cobros o citas al manejar todo de forma manual.
-- Limitado conocimiento tecnológico del equipo, lo que puede dificultar una transición.
-- Inestabilidad económica local que puede reducir la frecuencia de visitas.
+<img src="/images/sprint_2/FODA.png" 
+     alt="Reunión de elección del Scrum Master" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 1.6. Análisis de brecha
 La brecha principal se encuentra en la ausencia de una solución digital centralizada que permita una gestión eficiente, ordenada y escalable de los clientes y sus servicios. Actualmente, Barbershop Diamond opera bajo un sistema informal o manual, lo que limita la calidad del servicio, la fidelización del cliente y la eficiencia operativa.
@@ -126,15 +104,32 @@ Posterior a la reunión interna que se tuvo entre los involucrados en el proyect
 
 ##### **Reunión para elección del Product Owner:**
 
- 📷 Imagenes de [La reunión de elección del Product Owner](https://drive.google.com/file/d/1pmTF5lISDfFUe6mt7At1ThlGu26HtGcK/view?usp=sharing)
+ 📷 Imagenes de [La reunión de elección del Product Owner]
+ <img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="La reunión de elección del Product Owner" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 1.8. Declaración de la visión del proyecto
 ##### **Documento adjunto:**
  🗎 [Declaración de la visión del proyecto - Diamond BarberShop App](https://docs.google.com/document/d/10uRcqr6bJ-H-qqzbuojhRv3YDPEu_928QwsCWa_LyCU/edit?usp=sharing)
 
+ <iframe 
+  src="https://docs.google.com/document/d/10uRcqr6bJ-H-qqzbuojhRv3YDPEu_928QwsCWa_LyCU/preview" 
+  width="100%" 
+  height="600" 
+  style="border: none;">
+</iframe>
+
 #### 1.9. Acta constitutiva del proyecto
 ##### **Documento adjunto:**
  🗎 [Acta constitutiva del proyecto - Diamond BarberShop App](https://docs.google.com/document/d/12Lj1nKgszMkJ1KYNiAHo-kwDx8nVd0Ph/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
+
+  <iframe 
+  src="https://docs.google.com/document/d/12Lj1nKgszMkJ1KYNiAHo-kwDx8nVd0Ph/edit?usp/preview" 
+  width="100%" 
+  height="600" 
+  style="border: none;">
+</iframe>
 
 #### 1.10. Presupuesto del proyecto
 

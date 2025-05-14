@@ -57,7 +57,10 @@ Los criterios de selección que hemos usado para determinar quién será nuestro
 #### 2.7. Scrum Master identificado
 El Scrum Master será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave. Por consiguiente, nuestro Scrum Master será **Dafne Huertas Gonzales**, debido a que cumple con todos los requisitos planteados por experiencia laboral y universitaria.
 - **Reunión para elección del Scrum Master**
- 📷 Imagenes de [La reunión de elección del Scrum Master](https://drive.google.com/file/d/1pmTF5lISDfFUe6mt7At1ThlGu26HtGcK/view?usp=sharing)
+ 📷 Imagenes de [La reunión de elección del Scrum Master]
+ <img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reunión de elección del Scrum Master" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 2.8. Stakeholders identificados
 Los principales stakeholders son Jheremy Solis Quispe (dueño de la barbería y trabajador), así como trabajadores de la barbería que anteriormente también han sido clientes.

@@ -2,7 +2,7 @@
 title: "16. Demostrar y validar el sprint"
 meta_title: ""
 description: "meta description"
-date: 2025-04-23T07:00:00+00:00
+date: 2025-05-16T07:00:00+00:00
 image: "/images/posts/16-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -62,7 +62,9 @@ El Sprint Backlog incluye:
 #### 16.7. Reuniones de revisión del sprint
 En las reuniones de revisión del sprint, participan los integrantes del equipo principal de Scrum junto con los stakeholders relevantes. Durante estas sesiones, que se llevan a cabo al finalizar cada sprint, se evalúan los entregables para aceptar aquellos que cumplen con los criterios de aceptación establecidos en las historias de usuario, y rechazar los que no los satisfacen.
 
-(inserte imagen)
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reuniones de revisión del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

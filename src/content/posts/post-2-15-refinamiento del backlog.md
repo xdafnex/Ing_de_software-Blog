@@ -2,7 +2,7 @@
 title: "15. Refinamiento del backlog"
 meta_title: ""
 description: "meta description"
-date: 2025-04-23T07:00:00+00:00
+date: 2025-05-13T07:00:00+00:00
 image: "/images/posts/15-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -27,7 +27,10 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 #### 15.3. Reunion de revision del backlog priorizado del producto
 La reunión de revisión del Backlog Priorizado del Producto brinda una oportunidad para que el equipo Scrum y los stakeholders revisen y actualicen dicho backlog. En esta sesión, el Product Owner expone las historias de usuario priorizadas, mientras que el equipo Scrum analiza y ajusta los detalles necesarios para garantizar que dichas historias estén preparadas para integrarse al Sprint Backlog.
-(inserte imagen)
+
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reunion de revision del backlog priorizado del producto" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 
 ### Salidas

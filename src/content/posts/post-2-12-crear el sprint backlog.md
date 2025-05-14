@@ -2,7 +2,7 @@
 title: "12. Crear el sprint backlog"
 meta_title: ""
 description: "meta description"
-date: 2025-04-22T07:00:00+00:00
+date: 2025-05-02T07:00:00+00:00
 image: "/images/posts/12-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -31,19 +31,23 @@ Se estableció dadas las fechas del ciclo universitario que la duración de los 
 
 | Sprint     | Fecha de inicio | Fecha de fin | Fecha de lanzamiento |
 |------------|------------------|---------------|------------------------|
-| Sprint 1   | 12 de abril      | 25 de abril   | 26 de abril            |
+| Sprint 2   | 27 de abril      | 16 de mayo   | 17 de mayo            |
 
 ### Herramientas
 
 #### 12.6. Reuniones de planificacion del sprint
 Se realizó una reunión de planificación de tareas junto al product owner para discutir historias de usuario se desarrollarán específicamente para cada sprint.
 
-(inserte imagen)
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reuniones de planificacion del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 12.7. Herramientas del seguimiento del sprint
 Se realizó el seguimiento del sprint utilizando el método Scrumboard, ya que tiene una visión más global del proyecto y así mismo la divide en tres secciones; To Do, In progress y Completed.
 
-#### 12.8. Parametro del seguimiento del sprint
+<img src="/images/sprint_2/scrumboard_sprint2.png" 
+     alt="Herramientas del seguimiento del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

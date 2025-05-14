@@ -2,7 +2,7 @@
 title: "6. Realizar la planificación del lanzamiento"
 meta_title: ""
 description: "meta description"
-date: 2025-04-20T07:00:00+00:00
+date: 2025-04-28T07:00:00+00:00
 image: "/images/posts/06-2.png"
 draft: false
 authors: ["Dafne Huertas"]
@@ -49,7 +49,9 @@ Los principales stakeholders son Jheremy Solis Quispe (dueño de la barbería y 
 #### 6.6. Sesiones de planificación del lanzamiento
 Se realizaron sesiones de planificación con todo el equipo Scrum para determinar correctamente el lanzamiento de la aplicación a implementar. Cada uno asumiendo su rol respectivo y dando claridad y precisión sobre el tema en cuestión
 
-(inserte imagen)
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Sesiones de planificación del lanzamiento" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

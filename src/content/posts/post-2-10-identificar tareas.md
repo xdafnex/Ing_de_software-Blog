@@ -2,7 +2,7 @@
 title: "10. Identificar tareas"
 meta_title: ""
 description: "meta description"
-date: 2025-04-21T07:00:00+00:00
+date: 2025-05-01T07:00:00+00:00
 image: "/images/posts/10-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -36,7 +36,10 @@ Posterior a las reuniones se estableció que las historias de usuario que se des
 > **Quiero** un módulo para dar de alta, editar o dar de baja barberos y configurar sus franjas horarias,  
 > **Para** asegurar que las reservas futuras sólo puedan hacerse en horarios válidos.
 
- 📷 Imagenes de [Historias de usuarios](https://drive.google.com/file/d/1No6aOGP4g6pmpB_cgDXLDHkyC0lB5x6T/view?usp=sharing)
+ 📷 Imagenes de [Historias de usuarios]
+ <img src="/images/sprint_2/epica_historia.png" 
+     alt="Reunión de elección del Scrum Master" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Herramientas
 
@@ -47,7 +50,9 @@ Se realizó una reunión de planificación de tareas junto al product owner para
 
 El principal objetivo de esta reunión fue revisar las historias de usuario previamente identificadas y asignar tareas específicas a cada miembro del equipo. Este proceso es fundamental para garantizar que todos estén alineados con los objetivos del sprint y que se comprenda claramente el trabajo que se realizará.
 
-(inserte imagen)
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reuniones de planificación del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

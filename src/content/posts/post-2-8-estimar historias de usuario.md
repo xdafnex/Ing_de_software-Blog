@@ -2,7 +2,7 @@
 title: "8. Estimar historias de usuario"
 meta_title: ""
 description: "meta description"
-date: 2025-04-20T07:00:00+00:00
+date: 2025-05-01T07:00:00+00:00
 image: "/images/posts/08-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -29,7 +29,9 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 #### 8.3. Métodos de estimación 
 Se realizó una reunión realizando Planning Poker para las estimaciones de las historias de usuario
-(inserte imagen)
+<img src="/images/sprint_2/estimacion_poker.jpg" 
+     alt="Métodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

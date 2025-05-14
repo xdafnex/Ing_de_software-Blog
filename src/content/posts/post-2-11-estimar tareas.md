@@ -2,7 +2,7 @@
 title: "11. Estimar tareas"
 meta_title: ""
 description: "meta description"
-date: 2025-04-21T07:00:00+00:00
+date: 2025-05-02T07:00:00+00:00
 image: "/images/posts/11-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -38,7 +38,10 @@ Se realizó una reunión de planificación de tareas junto al product owner para
 (inserte imagen)
 
 #### 11.5. Metodos de estimación
-Se realizó una reunión realizando Planning Poker para las estimaciones de las tareas, siguiendo la estructura de las estimaciones de las historias de usuario
+Se realizó una reunión realizando Planning Poker para las estimaciones de las tareas, siguiendo la estructura de las estimaciones de las historias de usuario.
+<img src="/images/sprint_2/planning_poker.png" 
+     alt="Metodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

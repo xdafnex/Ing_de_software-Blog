@@ -2,7 +2,7 @@
 title: "13. Crear entregables"
 meta_title: ""
 description: "meta description"
-date: 2025-04-22T07:00:00+00:00
+date: 2025-05-10T07:00:00+00:00
 image: "/images/posts/13-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -34,7 +34,10 @@ Este documento se actualizará a medida que avanzamos en el sprint, permitiendo 
 #### 13.3. Scrumboard 
 El Scrumboard desempeña un papel fundamental al permitir visualizar el avance del trabajo, fortalecer la colaboración y comunicación del equipo, detectar posibles obstáculos y garantizar que las actividades se mantengan alineadas con los objetivos del sprint. Asimismo, contribuye a una mejor planificación y fomenta la transparencia, la capacidad de adaptación y la eficiencia en el desempeño del equipo.
 
- 📷 Imagenes de [Reunion de scrumboard](https://drive.google.com/file/d/1ii63-c48wRuAVLuqIMvQYgx1KiSV7Wcy/view?usp=sharing)
+ 📷 Imagenes de [Reunion de scrumboard]
+ <img src="/images/sprint_2/scrumboard_2.png" 
+     alt="Reunion de scrumboard" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 
 #### 13.4. Impediment Log
@@ -58,4 +61,6 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
 #### 13.7. Scrumboard actualizado
 El Scrum Board Actualizado refleja el progreso en tiempo real del equipo, mostrando tareas pendientes, en progreso y completadas. Facilita la colaboración, la identificación de bloqueos y el seguimiento continuo del Sprint.
 
-(inserte imagen)
+<img src="/images/sprint_2/scrumboard_sprint2.png" 
+     alt="Scrumboard actualizado" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

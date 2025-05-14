@@ -2,7 +2,7 @@
 title: "7. Crear historias de usuario"
 meta_title: ""
 description: "meta description"
-date: 2025-04-20T07:00:00+00:00
+date: 2025-04-28T07:00:00+00:00
 image: "/images/posts/07-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -39,6 +39,10 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 7.4. Reuniones del grupo de enfoque
 
 Se realizaron reuniones de grupo de enfoque para el apoyo de todos para la elaboración de la historias de usuario, además de resolver dudas que alguno de los desarrolladores tenga respecto a la idea del proyecto.
+
+<img src="/images/sprint_2/reunion_scrum_team.png" 
+     alt="Reuniones del grupo de enfoque" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 

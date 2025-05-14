@@ -2,7 +2,7 @@
 title: "9. Historias de usuario comprometidas"
 meta_title: ""
 description: "meta description"
-date: 2025-04-21T07:00:00+00:00
+date: 2025-05-01T07:00:00+00:00
 image: "/images/posts/09-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -33,7 +33,9 @@ Se estableció dadas las fechas del ciclo universitario que la duración de los 
 
 #### 9.4. Reuniones de planificación del sprint
 Se realizó una reunión de planificación de tareas junto al product owner para discutir historias de usuario se desarrollarán específicamente para cada sprint.
-(inserte imagen)
+<img src="/images/sprint_2/reunion_mas_stakeholder.png" 
+     alt="Reunión de elección del Scrum Master" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 
@@ -52,4 +54,7 @@ Posterior a las reuniones se estableció que las historias de usuario que se des
 > **Quiero** un módulo para dar de alta, editar o dar de baja barberos y configurar sus franjas horarias,  
 > **Para** asegurar que las reservas futuras sólo puedan hacerse en horarios válidos.
 
- 📷 Imagenes de [Historias de usuarios](https://drive.google.com/file/d/1No6aOGP4g6pmpB_cgDXLDHkyC0lB5x6T/view?usp=sharing)
+ 📷 Imagenes de [Historias de usuarios]
+ <img src="/images/sprint_2/epica_historia.png" 
+     alt="Historias de usuarios" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

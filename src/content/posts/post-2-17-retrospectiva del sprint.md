@@ -2,7 +2,7 @@
 title: "17. Retrospectiva del sprint"
 meta_title: ""
 description: "meta description"
-date: 2025-04-20T07:00:00+00:00
+date: 2025-05-16T07:00:00+00:00
 image: "/images/posts/17-2.png"
 draft: false
 authors: ["Dafne Huertas"]
@@ -40,7 +40,9 @@ Smith Seleni Ramos Sanchez, es el Product Owner en base a su experiencia en el f
 #### 17.5. Reunion retrospectiva del sprint
 Durante esta sesión, se llevó a cabo un análisis detallado del sprint más reciente, en el cual se evaluaron tanto los éxitos obtenidos como los obstáculos encontrados. En el espacio de retrospectiva, se abordaron los aspectos positivos y las oportunidades de mejora, con el propósito de perfeccionar los procesos y mantener el progreso en el desarrollo del producto. La participación activa de cada integrante del equipo permitió identificar áreas de mejora clave, y se establecieron acciones específicas a implementar en el próximo sprint, buscando una ejecución más eficaz y alineada con los objetivos del proyecto.
 
-(inserte imagen)
+<img src="/images/sprint_2/retrospectiva_2.png" 
+     alt="Reunion retrospectiva del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 
