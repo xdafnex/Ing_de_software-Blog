@@ -33,8 +33,9 @@ Se estableció dadas las fechas del ciclo universitario que la duración de los 
 
 #### 9.4. Reuniones de planificación del sprint
 Se realizó una reunión de planificación de tareas junto al product owner para discutir historias de usuario se desarrollarán específicamente para cada sprint.
-<img src="/images/sprint_2/reunion_mas_stakeholder.png" 
-     alt="Reunión de elección del Scrum Master" 
+
+<img src="/images/sprint_2/scrum_team.jpg" 
+     alt="Reuniones de planificación del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas

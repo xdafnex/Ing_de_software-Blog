@@ -35,11 +35,14 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 #### 11.4. Reuniones de planificación del sprint
 Se realizó una reunión de planificación de tareas junto al product owner para discutir las estimaciones de esfuerzo en realizar las tareas que se desarrollarán específicamente para cada sprint.
-(inserte imagen)
+
+<img src="/images/sprint_2/scrum_team.jpg" 
+     alt="Reuniones de planificación del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 11.5. Metodos de estimación
 Se realizó una reunión realizando Planning Poker para las estimaciones de las tareas, siguiendo la estructura de las estimaciones de las historias de usuario.
-<img src="/images/sprint_2/planning_poker.png" 
+<img src="/images/sprint_2/estimacion_poker.jpg" 
      alt="Metodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 

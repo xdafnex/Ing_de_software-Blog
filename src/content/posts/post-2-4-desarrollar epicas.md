@@ -31,11 +31,16 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 4.3. Reuniones de grupo de usuarios
 
 Se realizaron reuniones de grupo de usuarios junto a el equipo Scrum principal y stakeholders para clarificar las ideas y que estas puedan apreciarse de manera clara en las épicas a plantear.
-(inserte imagen)
+<img src="/images/sprint_2/reunion_mas_stakeholder.jpg" 
+     alt="Reuniones de grupo de usuarios" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 4.4. Reuniones del grupo de enfoque
 
 Se realizaron reuniones de grupo de enfoque para el apoyo de todos en la priorización de las épicas, además de resolver dudas que alguno de los desarrolladores tenga respecto a la idea del proyecto.
+<img src="/images/sprint_2/scrum_team.jpg" 
+     alt="Reuniones de grupo de enfoque" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 
@@ -60,6 +65,7 @@ Descripción: Esta épica abarca el “carrito de reserva” para que el cliente
 Descripción: En la última fase se implementa el historial de citas por cliente y la lógica de recompensas (corte gratis cada 10 citas), además de los reportes de ingresos. El administrador obtiene vistas filtrables por cliente, fecha o servicio, mientras el cliente ve en su perfil cuántas citas lleva acumuladas y cuándo alcanza su siguiente beneficio. Se incluyen ajustes finales de interfaz y optimización de rendimiento.
 
  📷 Imagenes de [épicas en Jira]
- <img src="/images/sprint_2/epica_historia.png" 
+ <img src="/images/sprint_2/epicas.png" 
      alt="Epicas en Jira" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
+     

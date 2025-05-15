@@ -37,6 +37,27 @@ El Daily Standup es una reunión corta que se realiza diariamente, en la cual el
 ##### **Documento adjunto:**
  🗎 [Daily Standup](https://docs.google.com/spreadsheets/d/1VJSOyAcDWuh6PMJyDNNBtCIdm6VjR92oBmLRf1PWv5U/edit?usp=sharing)
 
+<img src="/images/sprint_2/daily_andre.jpg" 
+     alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/sprint_2/daily_diego.jpg" 
+     alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/sprint_2/daily_arian.jpg" 
+     alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+#### 14.5. Sprint Burnup Chart
+Un "Sprint Burnup Chart" muestra el trabajo completado y el alcance total del sprint, ayudando al equipo a entender cuánto trabajo se ha hecho y cuánto queda por hacer.
+
+Esta grafica se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
+
+<img src="/images/sprint_2/burnup_chart.png" 
+     alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 #### 14.6. Tres preguntas diarias
 
 > ¿Qué hiciste ayer?  

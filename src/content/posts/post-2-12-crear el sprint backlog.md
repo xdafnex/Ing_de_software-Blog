@@ -62,4 +62,11 @@ El Sprint Backlog incluye:
 
 Este documento se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
  
+ #### 12.10. Sprint Burnup Chart
+Un "Sprint Burnup Chart" muestra el trabajo completado y el alcance total del sprint, ayudando al equipo a entender cuánto trabajo se ha hecho y cuánto queda por hacer.
 
+Esta grafica se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
+
+<img src="/images/sprint_2/burnup_chart.png" 
+     alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

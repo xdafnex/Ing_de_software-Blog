@@ -113,23 +113,8 @@ Posterior a la reunión interna que se tuvo entre los involucrados en el proyect
 ##### **Documento adjunto:**
  🗎 [Declaración de la visión del proyecto - Diamond BarberShop App](https://docs.google.com/document/d/10uRcqr6bJ-H-qqzbuojhRv3YDPEu_928QwsCWa_LyCU/edit?usp=sharing)
 
- <iframe 
-  src="https://docs.google.com/document/d/10uRcqr6bJ-H-qqzbuojhRv3YDPEu_928QwsCWa_LyCU/preview" 
-  width="100%" 
-  height="600" 
-  style="border: none;">
-</iframe>
-
 #### 1.9. Acta constitutiva del proyecto
 ##### **Documento adjunto:**
  🗎 [Acta constitutiva del proyecto - Diamond BarberShop App](https://docs.google.com/document/d/12Lj1nKgszMkJ1KYNiAHo-kwDx8nVd0Ph/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
 
-  <iframe 
-  src="https://docs.google.com/document/d/12Lj1nKgszMkJ1KYNiAHo-kwDx8nVd0Ph/edit?usp/preview" 
-  width="100%" 
-  height="600" 
-  style="border: none;">
-</iframe>
-
 #### 1.10. Presupuesto del proyecto
-

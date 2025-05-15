@@ -28,14 +28,18 @@ Posterior a la reunión entre todos los integrantes del equipo Scrum, se estable
 3. Reservas y notificaciones
 4. Recompensas y reportes
 
+ 📷 Imagenes de [épicas en Jira]
+ <img src="/images/sprint_2/epicas.png" 
+     alt="Epicas en Jira" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Herramientas
 
 #### 5.3. Reuniones de grupo de usuarios
-<img src="/images/sprint_2/reunion_scrum_team.png" 
+Se realizaron reuniones de grupo de usuarios junto a el equipo Scrum principal y stakeholders para clarificar las ideas y que estas puedan apreciarse de manera clara en las épicas a plantear.
+<img src="/images/sprint_2/reunion_mas_stakeholder.jpg" 
      alt="Reuniones de grupo de usuarios" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
-
 
 ### Salidas
 
