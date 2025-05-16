@@ -2,7 +2,7 @@
 title: "10. Identificar tareas"
 meta_title: ""
 description: "meta description"
-date: 2025-05-01T07:00:00+00:00
+date: 2025-05-01T10:20:00+00:00
 image: "/images/posts/10-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -57,4 +57,11 @@ El principal objetivo de esta reunión fue revisar las historias de usuario prev
 ### Salidas
 
 #### 10.4. Lista de tareas
+
+##### **Documento adjunto:**
 🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+
+ 📷 Imagenes de [Tareas en Jira]
+ <img src="/images/sprint_2/tareas.png" 
+     alt="Lista de tareas" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

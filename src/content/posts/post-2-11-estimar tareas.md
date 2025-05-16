@@ -2,7 +2,7 @@
 title: "11. Estimar tareas"
 meta_title: ""
 description: "meta description"
-date: 2025-05-02T07:00:00+00:00
+date: 2025-05-02T11:00:00+00:00
 image: "/images/posts/11-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -23,7 +23,12 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 11.2. Lista de tareas
 
 ##### **Documento adjunto:**
- 🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+
+ 📷 Imagenes de [Tareas en Jira]
+ <img src="/images/sprint_2/tareas.png" 
+     alt="Lista de tareas" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 11.3. Criterios de aceptación
 
@@ -54,3 +59,7 @@ La lista de tareas estimadas en función del esfuerzo requerido resulta fundamen
 ##### **Documento adjunto:**
  🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1Qxb3_033ila0bnI6jPO1QrRUneqtbYMN/view?usp=sharing)
 
+ 📷 Imagenes de [Tareas estimadas en Jira]
+ <img src="/images/sprint_2/tareas_estimadas.png" 
+     alt="Lista de tareas" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

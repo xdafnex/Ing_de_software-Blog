@@ -2,7 +2,7 @@
 title: "8. Estimar historias de usuario"
 meta_title: ""
 description: "meta description"
-date: 2025-05-01T07:00:00+00:00
+date: 2025-05-01T08:00:00+00:00
 image: "/images/posts/08-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -28,16 +28,27 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 ### Herramientas
 
 #### 8.3. Métodos de estimación 
-Se realizó una reunión realizando Planning Poker para las estimaciones de las historias de usuario
+Se realizó una reunión realizando Planning Poker para las estimaciones de las historias de usuario.
+
+<img src="/images/sprint_2/planning_poker.jpg" 
+     alt="Métodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 <img src="/images/sprint_2/estimacion_poker.jpg" 
+     alt="Métodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/sprint_2/estimacion.png" 
      alt="Métodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 
 #### 8.4. Historias de usuario estimadas 
+Se realizó las estimaciones en Jira para las funciones del software, desde la perspectiva del usuario final.
 
-##### **Documento adjunto:**
- 🗎 [Estimación de historias de usuario](https://drive.google.com/file/d/1Ptp-kIw7EujEV7bRIy3DqmQu5lgFpkB4/view?usp=sharing)
-
+📷 Imagenes de [Estimación de historias de usuario]
+ <img src="/images/sprint_2/historias_estimadas.png" 
+     alt="Métodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 

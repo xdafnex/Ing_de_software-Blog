@@ -2,7 +2,7 @@
 title: "9. Historias de usuario comprometidas"
 meta_title: ""
 description: "meta description"
-date: 2025-05-01T07:00:00+00:00
+date: 2025-05-01T09:10:00+00:00
 image: "/images/posts/09-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -21,13 +21,20 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 - Desarrollador Móvil 2: Andre Fernandez
 
 #### 9.2. Historias de usuario estimadas 
+Se realizó las estimaciones en Jira para las funciones del software, desde la perspectiva del usuario final.
 
-##### **Documento adjunto:**
- 🗎 [Estimación de historias de usuario](https://drive.google.com/file/d/1Ptp-kIw7EujEV7bRIy3DqmQu5lgFpkB4/view?usp=sharing)
+📷 Imagenes de [Estimación de historias de usuario]
+ <img src="/images/sprint_2/historias_estimadas.png" 
+     alt="Métodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 9.3. Duración del sprint
 
 Se estableció dadas las fechas del ciclo universitario que la duración de los sprints será de 3 semanas cada uno.
+
+<img src="/images/sprint_2/cronograma.png" 
+     alt="Duración del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Herramientas
 

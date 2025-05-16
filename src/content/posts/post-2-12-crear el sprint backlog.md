@@ -2,7 +2,7 @@
 title: "12. Crear el sprint backlog"
 meta_title: ""
 description: "meta description"
-date: 2025-05-02T07:00:00+00:00
+date: 2025-05-02T12:10:00+00:00
 image: "/images/posts/12-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]

@@ -2,7 +2,7 @@
 title: "14. Realizar Daily Standup"
 meta_title: ""
 description: "meta description"
-date: 2025-05-14T07:00:00+00:00
+date: 2025-05-05T14:0:00+00:00
 image: "/images/posts/14-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]

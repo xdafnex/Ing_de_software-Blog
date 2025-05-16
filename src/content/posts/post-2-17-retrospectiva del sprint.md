@@ -2,7 +2,7 @@
 title: "17. Retrospectiva del sprint"
 meta_title: ""
 description: "meta description"
-date: 2025-05-16T07:00:00+00:00
+date: 2025-05-17T17:00:00+00:00
 image: "/images/posts/17-2.png"
 draft: false
 authors: ["Dafne Huertas"]
@@ -29,7 +29,7 @@ La salida de demostrar y validar el Sprint 1 incluye los entregables aceptados y
 En el siguiente documento se muestra la salida de la demostración y validación del Sprint 2:
 
 ##### **Documento adjunto:**
- 🗎 [Salidad de demotrar y validar el Sprint](https://docs.google.com/spreadsheets/d/1rzjciR4n5OH9gVTgyR9RxF5UiTji8uW1/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
+ 🗎 [Salidas de demostrar y validar el Sprint](https://docs.google.com/spreadsheets/d/1rzjciR4n5OH9gVTgyR9RxF5UiTji8uW1/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
 
 #### 17.4. Product Owner
 
@@ -40,11 +40,13 @@ Smith Seleni Ramos Sanchez, es el Product Owner en base a su experiencia en el f
 #### 17.5. Reunion retrospectiva del sprint
 Durante esta sesión, se llevó a cabo un análisis detallado del sprint más reciente, en el cual se evaluaron tanto los éxitos obtenidos como los obstáculos encontrados. En el espacio de retrospectiva, se abordaron los aspectos positivos y las oportunidades de mejora, con el propósito de perfeccionar los procesos y mantener el progreso en el desarrollo del producto. La participación activa de cada integrante del equipo permitió identificar áreas de mejora clave, y se establecieron acciones específicas a implementar en el próximo sprint, buscando una ejecución más eficaz y alineada con los objetivos del proyecto.
 
-(imagen)
+(Próxima reunión)
 
 ### Salidas
 
 #### 17.6. Agreed Actionable Improvements
 
 ##### **Documento adjunto:**
- 🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/1yzMuYtuogaWg7vcqj-XWm-rVurxXekNe81_jY6LWBpA/edit?usp=sharing)
+ 🗎 [Agreed Actionable Improvements]
+
+ (Próximas salidas)

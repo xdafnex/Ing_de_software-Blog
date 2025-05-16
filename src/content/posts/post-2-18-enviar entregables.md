@@ -2,7 +2,7 @@
 title: "18. Enviar entregables"
 meta_title: ""
 description: "meta description"
-date: 2025-04-20T07:00:00+00:00
+date: 2025-05-17T18:00:00+00:00
 image: "/images/posts/18-2.png"
 draft: false
 authors: ["Dafne Huertas"]
@@ -46,4 +46,4 @@ Los métodos de desplazamiento organizacional permiten a las empresas reorganiza
 #### 18.6. Acuerdos de entregables funcionales
 
 ##### **Documento adjunto:**
- 🗎 [Acuerdos de entregables funcionales](https://docs.google.com/document/d/1kficDsG4o8HgLF2_rCL2KY9kgVxLn7oTaoKsJUMQkBI/edit?usp=sharing)
+ 🗎 [Acuerdos de entregables funcionales](https://docs.google.com/document/d/1tVbQW-yqHLV0ai2VRjISJlmDbD9AXtZa2NG7rBkQpVc/edit?usp=sharing)

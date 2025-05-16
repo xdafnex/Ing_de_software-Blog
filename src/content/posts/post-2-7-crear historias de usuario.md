@@ -2,7 +2,7 @@
 title: "7. Crear historias de usuario"
 meta_title: ""
 description: "meta description"
-date: 2025-04-28T07:00:00+00:00
+date: 2025-04-28T07:40:00+00:00
 image: "/images/posts/07-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]

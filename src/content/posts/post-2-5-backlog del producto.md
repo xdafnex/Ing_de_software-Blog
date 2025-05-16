@@ -2,7 +2,7 @@
 title: "5. Crear el Backlog Priorizado del Producto"
 meta_title: ""
 description: "meta description"
-date: 2025-04-28T07:00:00+00:00
+date: 2025-04-28T05:10:00+00:00
 image: "/images/posts/05-2.jpg"
 draft: false
 authors: ["Dafne Huertas"]

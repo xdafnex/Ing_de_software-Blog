@@ -2,7 +2,7 @@
 title: "1. Creando la vision del proyecto"
 meta_title: ""
 description: "En este apartado se definirá la visión del proyecto, los objetivos, los objetivos específicos y la solución tecnológica propuesta."
-date: 2025-04-28T05:00:00Z
+date: 2025-04-28T01:00:00Z
 image: "/images/posts/01-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -56,12 +56,16 @@ Para cumplir con los objetivos del proyecto, se plantea el desarrollo de una apl
 
 ### Herramientas
 
-#### 1.4. Reunion de vision del proyecto
+#### 1.4. Reunión de vision del proyecto
+Se realizaron reuniones del equipo Scrum principal junto al stakeholder, para un mejor entedimiento de la visión del proyecto.
+
 <img src="/images/sprint_2/reunion_mas_stakeholder.jpg" 
-     alt="Reunión de elección del Scrum Master" 
+     alt="Reunion de vision del proyecto" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 1.5. Análisis FODA
+Se utilizó la técnica FODA para analizar la situación interna y externa de la organización con el fin de desarrollar una estrategia más efectiva. 
+
 <img src="/images/sprint_2/FODA.png" 
      alt="Reunión de elección del Scrum Master" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

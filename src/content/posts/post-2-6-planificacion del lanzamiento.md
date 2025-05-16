@@ -2,7 +2,7 @@
 title: "6. Realizar la planificación del lanzamiento"
 meta_title: ""
 description: "meta description"
-date: 2025-04-28T07:00:00+00:00
+date: 2025-04-28T06:30:00+00:00
 image: "/images/posts/06-2.png"
 draft: false
 authors: ["Dafne Huertas"]
@@ -63,6 +63,14 @@ Se realizaron sesiones de planificación con todo el equipo Scrum para determina
 | 28 abr – 17 may | Sprint 2 Execution | CRUD de servicios y barberos, configuración de horarios. | Módulo de servicios y barberos operativo con interfaz móvil. |
 | 18 may 2025 | Sprint 2 Review & Retrospective | Demo de gestión de servicios y barberos; feedback. | Incremento de producto: Gestión de servicios y barberos. |
 
+<img src="/images/sprint_2/calendario.png" 
+     alt="Duración del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 #### 6.8. Duración del sprint
 
 Se estableció dadas las fechas del ciclo universitario que la duración de los sprints será de 3 semanas cada uno.
+
+<img src="/images/sprint_2/cronograma.png" 
+     alt="Duración del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />

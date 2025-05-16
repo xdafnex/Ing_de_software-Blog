@@ -2,7 +2,7 @@
 title: "13. Crear entregables"
 meta_title: ""
 description: "meta description"
-date: 2025-05-10T07:00:00+00:00
+date: 2025-05-02T13:20:00+00:00
 image: "/images/posts/13-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -51,7 +51,18 @@ En este caso, el Impediment Log permitió identificar y documentar los problemas
 #### 13.5. Experiencia del equipo
 En el proyecto de Sistema de gestion para barbería, la experiencia del equipo evidencia el conocimiento compartido y las competencias de los integrantes del Equipo Scrum para llevar a cabo el trabajo previsto y alcanzar los resultados esperados. Cada integrante aporta su experiencia técnica y criterio profesional en la ejecución de las tareas del Sprint Backlog, tomando decisiones clave para transformar las historias de usuario en productos funcionales.
 
-(inserte imagen)
+ 📷 Imagenes de [Experiencia del equipo]
+ <img src="/images/sprint_2/scrumboard_1.jpg" 
+     alt="Experiencia del equipo" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+ <img src="/images/sprint_2/scrumboard_2.png" 
+     alt="Experiencia del equipo" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+ <img src="/images/sprint_2/scrumboard_3.jpg" 
+     alt="Experiencia del equipo" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 13.6. Entregables del sprint
 

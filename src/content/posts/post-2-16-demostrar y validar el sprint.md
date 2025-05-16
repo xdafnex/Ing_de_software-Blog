@@ -2,7 +2,7 @@
 title: "16. Demostrar y validar el sprint"
 meta_title: ""
 description: "meta description"
-date: 2025-05-16T07:00:00+00:00
+date: 2025-05-16T16:00:00+00:00
 image: "/images/posts/16-2.jpg"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]
@@ -22,10 +22,19 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 - Desarrollador Móvil 2: Andre Fernandez
 
 #### 16.2. Entregables del sprint
+Los entregables del presente sprint son los resultados concretos del trabajo realizado durante el sprint 2, que se mencionan en el siguiente documento:
 
 ##### **Documento adjunto:**
  🗎 [Entregables del Sprint](https://drive.google.com/file/d/1preWziD26ML-o8gwNEBYfi2rMVIrMMVl/view?usp=sharing)
 
+Para el sprint 2, tenemos entregables de tipo front y back, como se muestra a continuación:
+<img src="/images/sprint_2/revision_entregable_front.jpg" 
+     alt="Entregables del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/sprint_2/revision_entregable_back.jpg" 
+     alt="Entregables del sprint" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 16.3. Sprint Backlog
 
@@ -40,12 +49,12 @@ El Sprint Backlog incluye:
  Este documento se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
 #### 16.4. Criterios de terminado
-
+Para dar por terminado cada uno de los entregables, el Product Owner, tendrá en cuenta los siguientes criterios de terminado encontrados en el documento a continuación:
 ##### **Documento adjunto:**
  🗎 [Definición de terminado](https://docs.google.com/document/d/1FegcnlbyW98sGBzLuEzfHOhObxKXm3xwxTIutmEX6eg/edit?usp=sharing)
 
 #### 16.5. Criterios de aceptación de las historias de usuario
-
+Para la aceptación de los entregables, el Product Owner, tendrá en cuenta los siguientes criterios de terminado encontrados en el documento a continuación:
 ##### **Documento adjunto:**
  🗎 [Historias de usuario y CA](https://docs.google.com/document/d/1sIdfQjdWxxfKKSsrdSCN6mlUbvD0Fpc8kRO_dRiyUuE/edit?usp=sharing)
 
@@ -69,6 +78,6 @@ En las reuniones de revisión del sprint, participan los integrantes del equipo 
 ### Salidas
 
 #### 16.8. Entregables aceptados
-
+Luego de que el Product Owner dio por terminado y aceptado los entregables, tenemos el documento de entregables aceptados.
 ##### **Documento adjunto:**
  🗎 [Entregables aceptados](https://drive.google.com/file/d/1I2lmuC4vnqfv16tBFTfU0y6o-ACkw17K/view?usp=sharing)

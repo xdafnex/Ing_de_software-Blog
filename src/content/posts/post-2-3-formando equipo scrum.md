@@ -2,7 +2,7 @@
 title: "3. Formando el equipo Scrum"
 meta_title: ""
 description: "meta description"
-date: 2025-04-19T06:00:00+00:00
+date: 2025-04-28T03:00:00+00:00
 image: "/images/posts/03-2.png"
 categories: ["sprint-2"]
 authors: ["Dafne Huertas"]

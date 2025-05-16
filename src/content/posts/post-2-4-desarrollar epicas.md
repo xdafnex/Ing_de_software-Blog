@@ -2,7 +2,7 @@
 title: "4. Desarrollar Épicas"
 meta_title: ""
 description: "meta description"
-date: 2025-04-28T07:00:00+00:00
+date: 2025-04-28T04:00:00+00:00
 image: "/images/posts/04-2.png"
 authors: ["Dafne Huertas"]
 tags: ["Scrum", "Épicas"]

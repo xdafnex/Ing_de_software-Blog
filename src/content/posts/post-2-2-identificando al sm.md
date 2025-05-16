@@ -2,7 +2,7 @@
 title: "2. Identificando al Scrum Master y Stakeholder(s)"
 meta_title: ""
 description: "meta description"
-date: 2025-04-19T05:00:00Z
+date: 2025-04-28T02:10:00Z
 image: "/images/posts/02-2.png"
 authors: ["Dafne Huertas"]
 tags: ["scrum master", "stakeholder"]
@@ -53,9 +53,14 @@ Los criterios de selección que hemos usado para determinar quién será nuestro
 2. Disponibilidad.
 3. Compromiso.
 
+<img src="/images/sprint_2/seleccion_scrum.png" 
+     alt="Criterios de selección" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 ### Salidas
 #### 2.7. Scrum Master identificado
 El Scrum Master será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave. Por consiguiente, nuestro Scrum Master será **Dafne Huertas Gonzales**, debido a que cumple con todos los requisitos planteados por experiencia laboral y universitaria.
+
 - **Reunión para elección del Scrum Master**
  📷 Imagenes de [La reunión de elección del Scrum Master]
  <img src="/images/sprint_2/reunion_scrum_team.png" 
