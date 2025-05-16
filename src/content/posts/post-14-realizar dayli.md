@@ -46,6 +46,6 @@ El Daily Standup es una reunión corta que se realiza diariamente, en la cual el
 ### Salidas
 
 #### 14.8. Impediment Log actualizado
-
+El documento actualizado permite registrar y rastrear los obstáculos que impiden al equipo avanzar hacia el objetivo del Sprint 2.
 ##### **Documento adjunto:**
  🗎 [Impediment Log actualizado](https://docs.google.com/document/d/1NGY7rBVbBYJsBGKTrMk5p1wSgBs73J6kPsenyy54Ayg/edit?usp=sharing)
