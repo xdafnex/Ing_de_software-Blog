@@ -22,7 +22,7 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 #### 10.2. Historias de usuario comprometidas
 
-Posterior a las reuniones se estableció que las historias de usuario que se desarrollarán en el primer sprint, serán las siguientes:
+Posterior a las reuniones se estableció que las historias de usuario que se desarrollarán en el segundo sprint, serán las siguientes:
 
 > **2.1. Gestionar Servicios**  
 > **Descripción:**  

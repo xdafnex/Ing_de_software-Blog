@@ -48,7 +48,7 @@ Se realizó una reunión de planificación de tareas junto al product owner para
 ### Salidas
 
 #### 9.5. Historias de usuario comprometidas
-Posterior a las reuniones se estableció que las historias de usuario que se desarrollarán en el primer sprint, serán las siguientes:
+Posterior a las reuniones se estableció que las historias de usuario que se desarrollarán en el segundo sprint, serán las siguientes:
 
 > **2.1. Gestionar Servicios**  
 > **Descripción:**  

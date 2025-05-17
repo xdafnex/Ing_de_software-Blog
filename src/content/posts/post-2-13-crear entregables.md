@@ -44,7 +44,7 @@ El Scrumboard desempeña un papel fundamental al permitir visualizar el avance d
 En este caso, el Impediment Log permitió identificar y documentar los problemas específicos surgidos en el proyecto de digitalización de la biblioteca, asegurando un seguimiento claro de los desafíos técnicos, humanos y operativos que impactan el progreso del equipo. Gracias a ello, se facilita la planificación e implementación de acciones correctivas para abordar estos impedimentos de forma oportuna.
 
 ##### **Documento adjunto:**
- 🗎 [Impediment Log](https://docs.google.com/document/d/1NGY7rBVbBYJsBGKTrMk5p1wSgBs73J6kPsenyy54Ayg/edit?usp=sharing)
+ 🗎 [Impediment Log](https://docs.google.com/document/d/1Wm83XsObIHL0DMI6-M8gQUWEvj2DW5Zx6lBl5vEHLh0/edit?usp=sharing)
 
 ### Herramientas
 

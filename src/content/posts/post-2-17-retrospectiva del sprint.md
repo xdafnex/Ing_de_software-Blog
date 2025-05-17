@@ -38,15 +38,17 @@ Smith Seleni Ramos Sanchez, es el Product Owner en base a su experiencia en el f
 ### Herramientas
 
 #### 17.5. Reunion retrospectiva del sprint
-Durante esta sesión, se llevó a cabo un análisis detallado del sprint más reciente, en el cual se evaluaron tanto los éxitos obtenidos como los obstáculos encontrados. En el espacio de retrospectiva, se abordaron los aspectos positivos y las oportunidades de mejora, con el propósito de perfeccionar los procesos y mantener el progreso en el desarrollo del producto. La participación activa de cada integrante del equipo permitió identificar áreas de mejora clave, y se establecieron acciones específicas a implementar en el próximo sprint, buscando una ejecución más eficaz y alineada con los objetivos del proyecto.
+Durante esta sesión, se llevó a cabo un análisis detallado del sprint más reciente, en el cual se evaluaron tanto los éxitos obtenidos como los obstáculos encontrados. En el espacio de retrospectiva, se abordaron los aspectos positivos y las oportunidades de mejora, con el propósito de perfeccionar los procesos y mantener el progreso en el desarrollo del producto. La participación activa de cada integrante del equipo permitió identificar áreas de mejora clave, y se establecieron acciones específicas a implementar en el próximo sprint, buscando una ejecución más eficaz y alineada con los objetivos del proyecto. La tecnica utilizada para evaluar la retrospectiva fue “Star, stop, continue”
 
-(Próxima reunión)
+ 🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVI2oZCrU=/?share_link_id=316468690099)
+
+<img src="/images/sprint_2/retrospectiva_reunion.png" 
+     alt="Reuniones del grupo de enfoque" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 
 #### 17.6. Agreed Actionable Improvements
 
 ##### **Documento adjunto:**
- 🗎 [Agreed Actionable Improvements]
-
- (Próximas salidas)
+ 🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/1yzMuYtuogaWg7vcqj-XWm-rVurxXekNe81_jY6LWBpA/edit?usp=sharing)

@@ -91,6 +91,3 @@ Como plan de contingencia en caso de problemas respecto a tiempo o recursos, hem
 - Arian Sevillano: Apoyo en desarrollo móvil, Scrum Master o Product Owner.
 - Dafne Huertas: Apoyo en desarrollo móvil.
 - Diego Caballero: Apoyo en desarrollo backend.
-
-
-

@@ -1,5 +1,5 @@
 ---
-title: "1. Creando la vision del proyecto"
+title: "1. Creando la visión del proyecto"
 meta_title: ""
 description: "En este apartado se definirá la visión del proyecto, los objetivos, los objetivos específicos y la solución tecnológica propuesta."
 date: 2025-04-28T01:00:00Z
