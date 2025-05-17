@@ -54,7 +54,14 @@ Un "Sprint Burnup Chart" muestra el trabajo completado y el alcance total del sp
 
 Esta grafica se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
+📷 Imagen de [Burnup Chart]
 <img src="/images/sprint_2/burnup_chart.png" 
+     alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+##### **Burnup Chart:**
+📷 Imagen de [Burnup Chart - Sprint Finalizado]
+<img src="/images/sprint_2/burnup_report.jpg" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
