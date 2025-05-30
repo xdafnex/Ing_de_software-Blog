@@ -49,7 +49,7 @@ Los principales stakeholders son Jheremy Solis Quispe (dueño de la barbería y 
 #### 6.6. Sesiones de planificación del lanzamiento
 Se realizaron sesiones de planificación con todo el equipo Scrum para determinar correctamente el lanzamiento de la aplicación a implementar. Cada uno asumiendo su rol respectivo y dando claridad y precisión sobre el tema en cuestión
 
-<img src="/images/sprint_2/reunion_team.png" 
+<img src="/images/sprint_3/reunion_team.png" 
      alt="Sesiones de planificación del lanzamiento" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 

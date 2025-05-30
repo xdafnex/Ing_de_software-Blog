@@ -40,7 +40,7 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 Se realizaron reuniones de grupo de enfoque para el apoyo de todos para la elaboración de la historias de usuario, además de resolver dudas que alguno de los desarrolladores tenga respecto a la idea del proyecto.
 
-<img src="/images/sprint_2/reunion_scrum_team.png" 
+<img src="/images/sprint_3/reunion_scrum_team.png" 
      alt="Reuniones del grupo de enfoque" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
