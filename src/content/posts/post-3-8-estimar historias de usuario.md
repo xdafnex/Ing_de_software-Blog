@@ -30,15 +30,15 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 8.3. Métodos de estimación 
 Se realizó una reunión realizando Planning Poker para las estimaciones de las historias de usuario.
 
-<img src="/images/sprint_3/planning_poker.jpg" 
+<img src="/images/sprint_3/planning poker.png" 
      alt="Métodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-<img src="/images/sprint_3/estimacion_poker.jpg" 
+<img src="/images/sprint_3/planning poker2.png" 
      alt="Métodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-<img src="/images/sprint_3/estimacion.png" 
+<img src="/images/sprint_3/planning poker3.png" 
      alt="Métodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 

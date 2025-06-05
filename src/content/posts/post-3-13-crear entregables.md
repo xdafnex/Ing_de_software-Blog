@@ -35,7 +35,7 @@ Este documento se actualizará a medida que avanzamos en el sprint, permitiendo 
 El Scrumboard desempeña un papel fundamental al permitir visualizar el avance del trabajo, fortalecer la colaboración y comunicación del equipo, detectar posibles obstáculos y garantizar que las actividades se mantengan alineadas con los objetivos del sprint. Asimismo, contribuye a una mejor planificación y fomenta la transparencia, la capacidad de adaptación y la eficiencia en el desempeño del equipo.
 
  📷 Imagenes de [Reunion de scrumboard]
- <img src="/images/sprint_3/scrumboard_2.png" 
+ <img src="/images/sprint_3/reunion_scrum.png" 
      alt="Reunion de scrumboard" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -52,15 +52,15 @@ En este caso, el Impediment Log permitió identificar y documentar los problemas
 En el proyecto de Sistema de gestion para barbería, la experiencia del equipo evidencia el conocimiento compartido y las competencias de los integrantes del Equipo Scrum para llevar a cabo el trabajo previsto y alcanzar los resultados esperados. Cada integrante aporta su experiencia técnica y criterio profesional en la ejecución de las tareas del Sprint Backlog, tomando decisiones clave para transformar las historias de usuario en productos funcionales.
 
  📷 Imagenes de [Experiencia del equipo]
- <img src="/images/sprint_3/scrumboard_1.jpg" 
+ <img src="/images/sprint_3/scrumboard1.png" 
      alt="Experiencia del equipo" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
- <img src="/images/sprint_3/scrumboard_2.png" 
+ <img src="/images/sprint_3/scrumboard2.png" 
      alt="Experiencia del equipo" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
- <img src="/images/sprint_3/scrumboard_3.jpg" 
+ <img src="/images/sprint_3/scrumboard3.png" 
      alt="Experiencia del equipo" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -72,6 +72,6 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
 #### 13.7. Scrumboard actualizado
 El Scrum Board Actualizado refleja el progreso en tiempo real del equipo, mostrando tareas pendientes, en progreso y completadas. Facilita la colaboración, la identificación de bloqueos y el seguimiento continuo del Sprint.
 
-<img src="/images/sprint_3/scrumboard_sprint3.png" 
+<img src="/images/sprint_3/scrumboard_actualizado.png" 
      alt="Scrumboard actualizado" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

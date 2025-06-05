@@ -32,7 +32,7 @@ El Backlog Priorizado incluye:
 #### 15.3. Reunion de revision del backlog priorizado del producto
 La reunión de revisión del Backlog Priorizado del Producto brinda una oportunidad para que el equipo Scrum y los stakeholders revisen y actualicen dicho backlog. En esta sesión, el Product Owner expone las historias de usuario priorizadas, mientras que el equipo Scrum analiza y ajusta los detalles necesarios para garantizar que dichas historias estén preparadas para integrarse al Sprint Backlog.
 
-<img src="/images/sprint_3/backlog_priorizado.jpg" 
+<img src="/images/sprint_3/reunion_backlog.png" 
      alt="Reunion de revision del backlog priorizado del producto" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -40,7 +40,7 @@ La reunión de revisión del Backlog Priorizado del Producto brinda una oportuni
 ### Salidas
 
 #### 15.4. Backlog Priorizado del Producto actualizado
-<img src="/images/sprint_3/backlog_2.png" 
+<img src="/images/sprint_3/backlog.png" 
      alt="Backlog Priorizado del Producto actualizado" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 

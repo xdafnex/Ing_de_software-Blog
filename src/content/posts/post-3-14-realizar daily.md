@@ -37,15 +37,15 @@ El Daily Standup es una reunión corta que se realiza diariamente, en la cual el
 ##### **Documento adjunto:**
  🗎 [Daily Standup](https://docs.google.com/spreadsheets/d/1FnFx14yJ2iSidLSAhznKT0S7XbcUza8U6TbB2_EpSeY/edit?usp=sharing)
 
-<img src="/images/sprint_3/daily_andre.jpg" 
+<img src="/images/sprint_3/scrumboard1.png" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-<img src="/images/sprint_3/daily_diego.jpg" 
+<img src="/images/sprint_3/scrumboard2.png" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-<img src="/images/sprint_3/daily_arian.jpg" 
+<img src="/images/sprint_3/scrumboard3.png" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
