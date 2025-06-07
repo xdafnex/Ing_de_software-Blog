@@ -64,6 +64,11 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
      alt="Experiencia del equipo" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
+ 📷 Imagenes de [Flujo de funcionalidades]
+ <img src="/images/sprint_3/funcionalidades.png" 
+     alt="Flujo de funcionalidades" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 #### 13.6. Entregables del sprint
 
 ##### **Documento adjunto:**

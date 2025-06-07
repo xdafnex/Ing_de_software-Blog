@@ -61,8 +61,13 @@ Esta grafica se actualizará a medida que avanzamos en el sprint, permitiendo al
 
 ##### **Burnup Chart:**
 📷 Imagen de [Burnup Chart - Sprint Finalizado]
-<img src="/images/sprint_3/burnup3-sprint3.png" 
+<img src="/images/sprint_3/burnup_finalizado.png" 
      alt="Sprint Burnup Chart" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+📷 Imagen de [Burndown Chart - Sprint Finalizado]
+<img src="/images/sprint_3/burndown_finalizado.png" 
+     alt="Sprint Burndown Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 14.6. Tres preguntas diarias
