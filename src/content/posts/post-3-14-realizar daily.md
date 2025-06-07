@@ -27,7 +27,7 @@ Dafne Huertas Gonzales, es el Scrum Master en base a su experiencia en la gesti�
 En este caso, el Impediment Log permitió identificar y documentar los problemas específicos surgidos en el proyecto de digitalización de la biblioteca, asegurando un seguimiento claro de los desafíos técnicos, humanos y operativos que impactan el progreso del equipo. Gracias a ello, se facilita la planificación e implementación de acciones correctivas para abordar estos impedimentos de forma oportuna.
 
 ##### **Documento adjunto:**
- 🗎 [Impediment Log](https://docs.googlI6-M8gQUWEvj2DW5Zx6lBl5vEHLh0/edit?usp=sharing)
+ 🗎 [Impediment Log](https://docs.google.com/document/d/1__LzD1AtMWLP23o---986-7H1gV62ndoEyLKUOJWYrY/edit?usp=sharing)
 
 ### Herramientas
 

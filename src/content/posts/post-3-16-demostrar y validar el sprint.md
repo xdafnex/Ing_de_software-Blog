@@ -48,7 +48,7 @@ El Sprint Backlog incluye:
 
  Este documento se actualiza a medida que avanzamos en el sprint, en simultáneo con el scrumboard, el cual da una visión clara de las tareas completadas.
 
- <img src="/images/sprint_3/sprint_finish.jpg" 
+ <img src="/images/sprint_3/sprint_finish.png" 
      alt="Reuniones de revisión del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -81,7 +81,7 @@ En las reuniones de revisión del sprint, participan los integrantes del equipo 
 
 Durante estas sesiones, que se llevan a cabo al finalizar cada sprint, se evalúan los entregables para aceptar aquellos que cumplen con los criterios de aceptación establecidos en las historias de usuario, y rechazar los que no los satisfacen.
 
-<img src="/images/sprint_3/sprint_done.jpg"
+<img src="/images/sprint_3/sprint_done.png"
      alt="Reuniones de revisión del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
