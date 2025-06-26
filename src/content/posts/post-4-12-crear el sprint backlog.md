@@ -3,7 +3,7 @@ title: "12. Crear el backlog de la iteración"
 meta_title: ""
 description: "meta description"
 date: 2025-05-02T12:10:00+00:00
-image: "/images/posts/12-2.png"
+image: "/images/posts/12-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Tareas", "Backlog"]
@@ -29,13 +29,13 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
      style="display: block; margin: 20px auto; max-width: 35%;" />
 
 #### 12.2. Effort Estimated Task List
-La lista de tareas estimadas en función del esfuerzo requerido resulta fundamental para una planificación eficiente del sprint. A continuación, se expone un documento con las estimaciones asignadas a las historias de usuario y sus respectivas tareas, las cuales fueron determinadas mediante la técnica de Planning Poker.
+La lista de tareas estimadas en función del esfuerzo requerido resulta fundamental para una planificación eficiente de la iteración. A continuación, se expone un documento con las estimaciones asignadas a las historias de usuario y sus respectivas tareas, las cuales fueron determinadas mediante la técnica de Planning Poker.
 
 ##### **Documento adjunto:**
  🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1Qxb3_033ila0bnI6jPO1QrRUneqtbYMN/view?usp=sharing)
 
 #### 12.3. Duración de la iteración
-Se estableció dadas las fechas del ciclo universitario que la duración de los sprints será de 3 semanas cada uno.
+Se estableció dadas las fechas del ciclo universitario que la duración de las iteraciones será de 3 semanas cada uno.
 
 | Iteracion     | Fecha de inicio | Fecha de fin | Fecha de lanzamiento |
 |------------|------------------|---------------|------------------------|
@@ -44,7 +44,7 @@ Se estableció dadas las fechas del ciclo universitario que la duración de los 
 ### Herramientas
 
 #### 12.6. Reuniones de planificacion de la iteración
-Se realizó una reunión de planificación de tareas junto al product owner para discutir historias de usuario se desarrollarán específicamente para cada iteración.
+Se realizó una reunión de planificación de tareas junto al cliente para discutir historias de usuario se desarrollarán específicamente para cada iteración.
 
 <img src="/images/sprint_2/reunion_scrum_team.png" 
      alt="Reuniones de planificacion del sprint" 

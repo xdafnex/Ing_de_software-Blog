@@ -3,7 +3,7 @@ title: "18. Enviar entregables"
 meta_title: ""
 description: "meta description"
 date: 2025-05-17T18:00:00+00:00
-image: "/images/posts/18-2.png"
+image: "/images/posts/18-4.png"
 draft: false
 authors: ["Dafne Huertas"]
 tags: ["Retrospectiva"]
@@ -16,7 +16,7 @@ categories: ["xp"]
 
 Smith Seleni Ramos Sanchez, es el Jefe de Proyecto en base a su experiencia en el framework Scrum (Participó en el curso Scrum el ciclo pasado) y cercanía al establecimiento, lo cual la hace la más apropiada para representar la voz del cliente.
 
-#### 18.2. Stakeholders
+#### 18.2. Cliente
 Jheremy Solis Quispe, es el dueño de la barbería y trabajador, así como también cliente. A su vez, también son los dueños de la barbería, los dueños de la barbería, y los dueños de la barbería.
 
 #### 18.3. Entregables aceptados
@@ -28,10 +28,16 @@ Jheremy Solis Quispe, es el dueño de la barbería y trabajador, así como tambi
 #### 18.4. Cronograma de planificación de lanzamiento
 
 | Fecha | Evento/Hito | Descripción | Entregable / Resultado |
-| --- | --- | --- | --- |
-| 27 abr 2025 | Sprint 2 Planning | Refinamiento de backlog y selección de historias para Sprint 2. | Sprint 2 Backlog listo. |
-| 28 abr – 17 may | Sprint 2 Execution | CRUD de servicios y barberos, configuración de horarios. | Módulo de servicios y barberos operativo con interfaz móvil. |
-| 18 may 2025 | Sprint 2 Review & Retrospective | Demo de gestión de servicios y barberos; feedback. | Incremento de producto: Gestión de servicios y barberos. |
+| ----- | ------ | ------ | ------ |
+| 9 jun 2025 | Iteración 4 Planning | Selección de historias para recompensas y reportes. | Sprint 4 Backlog listo. |
+| 10 jun – 1 jul | Iteración 4 Execution | Lógica de recompensas, historial de citas y reportes de ingresos; ajustes finales. | Módulo de recompensas y reportes completos. |
+| 2 jul 2025 | Iteración 4 Review & Retrospective | Demo final de todas las funcionalidades; aprobación del Jefe de Proyecto. | Incremento de producto: App completa lista para lanzamiento. |
+| 3 jul 2025 | Release / Go‑Live | Despliegue de backend a producción y publicación de la APK. | Versión 2.0 disponible para el cliente. |
+| 4 jul 2025 | Cierre de Proyecto | Documentación final, entrega de manual de usuario y “lecciones aprendidas”. | Proyecto cerrado y entregado. |
+
+<img src="/images/xp/calendario-xp4.png" 
+     alt="Duración de iteración" 
+     style="display: block; margin: 20px auto; max-width: 70%;" />
 
 ### Herramientas
 

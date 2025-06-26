@@ -3,7 +3,7 @@ title: "8. Estimar historias de usuario"
 meta_title: ""
 description: "meta description"
 date: 2025-05-01T08:00:00+00:00
-image: "/images/posts/08-2.jpg"
+image: "/images/posts/08-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Historias de usuario"]
