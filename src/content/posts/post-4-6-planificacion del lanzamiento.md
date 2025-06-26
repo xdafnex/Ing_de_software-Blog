@@ -3,7 +3,7 @@ title: "6. Realizar la planificación del lanzamiento"
 meta_title: ""
 description: "meta description"
 date: 2025-04-28T06:30:00+00:00
-image: "/images/posts/06-2.png"
+image: "/images/posts/06-4.jpg"
 draft: false
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Priorización"]

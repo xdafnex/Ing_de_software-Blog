@@ -3,7 +3,7 @@ title: "11. Estimar tareas"
 meta_title: ""
 description: "meta description"
 date: 2025-05-02T11:00:00+00:00
-image: "/images/posts/11-2.png"
+image: "/images/posts/11-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Tareas", "Estimación"]

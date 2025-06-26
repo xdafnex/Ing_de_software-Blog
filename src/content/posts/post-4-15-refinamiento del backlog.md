@@ -3,7 +3,7 @@ title: "15. Refinamiento del backlog"
 meta_title: ""
 description: "meta description"
 date: 2025-05-10T15:00:00+00:00
-image: "/images/posts/15-2.png"
+image: "/images/posts/15-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Refinamiento"]
@@ -38,7 +38,7 @@ El Backlog Priorizado incluye:
 ### Herramientas
 
 #### 15.3. Reunion de revision del backlog priorizado del producto
-La reunión de revisión del Backlog Priorizado del Producto brinda una oportunidad para que el equipo Scrum y los stakeholders revisen y actualicen dicho backlog. En esta sesión, el Product Owner expone las historias de usuario priorizadas, mientras que el equipo Scrum analiza y ajusta los detalles necesarios para garantizar que dichas historias estén preparadas para integrarse al Sprint Backlog.
+La reunión de revisión del Backlog Priorizado del Producto brinda una oportunidad para que el equipo XP y los stakeholders revisen y actualicen dicho backlog. En esta sesión, el Jefe de proyecto expone las historias de usuario priorizadas, mientras que el equipo XP analiza y ajusta los detalles necesarios para garantizar que dichas historias estén preparadas para integrarse al Sprint Backlog.
 
 <img src="/images/sprint_2/backlog_priorizado.jpg" 
      alt="Reunion de revision del backlog priorizado del producto" 

@@ -3,7 +3,7 @@ title: "10. Identificar tareas"
 meta_title: ""
 description: "meta description"
 date: 2025-05-01T10:20:00+00:00
-image: "/images/posts/10-2.png"
+image: "/images/posts/10-4.jpg"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Tareas"]
@@ -43,8 +43,8 @@ Posterior a las reuniones se estableció que las historias de usuario que se des
 
 ### Herramientas
 
-#### 10.3. Reuniones de planificación del sprint
-Se realizó una reunión de planificación de tareas junto al product owner para discutir cómo se van a descomponer las historias de usuario en tareas.
+#### 10.3. Reuniones de planificación de la iteración
+Se realizó una reunión de planificación de tareas junto al cliente para discutir cómo se van a descomponer las historias de usuario en tareas.
 
 **Objetivos de la reunión**
 

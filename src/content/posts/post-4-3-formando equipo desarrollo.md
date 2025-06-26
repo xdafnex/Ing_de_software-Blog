@@ -3,7 +3,7 @@ title: "3. Formando el Equipo de Desarrollo"
 meta_title: ""
 description: "meta description"
 date: 2025-04-28T03:00:00+00:00
-image: "/images/posts/03-2.png"
+image: "/images/posts/03-4.jpg"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["xp", "team"]
@@ -14,7 +14,7 @@ draft: false
 ### Entradas
 
 #### 3.1. Jefe de proyecto identificado
-Posterior a la reunión interna que se tuvo entre los involucrados en el proyecto, se llegó al acuerdo que la integrante: Smith Seleni Ramos Sanchez, es la elegida para ser Product Owner del equipo debido a las siguientes razones:
+Posterior a la reunión interna que se tuvo entre los involucrados en el proyecto, se llegó al acuerdo que la integrante: Smith Seleni Ramos Sanchez, es la elegida para ser Jefe de Proyecto del equipo debido a las siguientes razones:
 - Experiencia en el framework
 - Cercanía al establecimiento, vive en Villa María del Triunfo
 
@@ -23,7 +23,7 @@ Posterior a la reunión interna que se tuvo entre los involucrados en el proyect
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 3.2. Coach identificado
-El Coach será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave. Por consiguiente, nuestro Scrum Master será **Dafne Huertas Gonzales**, debido a que cumple con todos los requisitos planteados por experiencia laboral y universitaria.
+El Coach será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con el cliente. Por consiguiente, nuestro coach será **Dafne Huertas Gonzales**, debido a que cumple con todos los requisitos planteados por experiencia laboral y universitaria.
 
 <img src="/images/xp/coach.png" 
      alt="Coach Identificado" 
@@ -38,15 +38,15 @@ El Coach será elegido en base a su experiencia en la gestión de proyectos ági
 
 | Rol                 | Descripción                                                                 | Perfil requerido                                |
 |---------------------|-----------------------------------------------------------------------------|--------------------------------------------------|
-| Product Owner       | Define los requerimientos funcionales del sistema, prioriza las historias de usuario. | Conocimiento del negocio de la barbería.         |
-| Scrum Master        | Asegura la aplicación de la metodología Scrum y facilita las reuniones.     | Experiencia en metodologías ágiles.              |
-| Desarrollador Backend | Implementa la lógica del servidor, maneja la base de datos, desarrolla servicios REST. | Experiencia en Java, Spring Boot y MySQL.        |
-| Desarrollador Móvil | Desarrolla la aplicación móvil nativa.                                      | Conocimiento en Android Studio y Java.           |
-| Stakeholders        | Validan y revisan avances del proyecto.                                     | Dueños o representantes de Diamond Barbershop.   |
+| Cliente       | Define requisitos, da feedback y prioriza funcionalidades. | Conocimiento del negocio de la barbería.         |
+| Coach       | Guía al equipo en la correcta aplicación de XP.     | Experto en XP, facilitador, mentor.              |
+| Tracker | 	Mide progreso y detecta obstáculos. | Analítico, organizado.       |
+| Tester | Desarrolla la aplicación móvil nativa.                                      | Diseña y ejecuta pruebas automáticas y funcionales.           |Enfocado en calidad, detallista
+| Equipo de Desarrollo        | Escriben el código del sistema, siguiendo buenas prácticas, refactorización y programación en pareja.                                     | Técnico, colaborativo, disciplinado  |
 
 #### 3.5. Disponibilidad y Compromiso de las personas
 
-El equipo ha acordado trabajar en sprints de 3 semanas durante un período total de 3 meses. Los stakeholders clave, como el propietario de Diamond Barbershop y el personal involucrado en la operación del negocio, han mostrado su compromiso con el proyecto, asegurando su disponibilidad para reuniones de seguimiento, validación de avances y pruebas funcionales. Asimismo, los miembros del equipo Scrum han confirmado su disponibilidad semanal y su compromiso para llevar adelante el desarrollo de la aplicación de forma continua.
+El equipo ha acordado trabajar en sprints de 3 semanas durante un período total de 3 meses. Los clientes, como el propietario de Diamond Barbershop y el personal involucrado en la operación del negocio, han mostrado su compromiso con el proyecto, asegurando su disponibilidad para reuniones de seguimiento, validación de avances y pruebas funcionales. Asimismo, los miembros del equipo XP han confirmado su disponibilidad semanal y su compromiso para llevar adelante el desarrollo de la aplicación de forma continua.
 
 #### 3.6. Matriz de las destrezas requeridas
 
@@ -61,7 +61,7 @@ El equipo ha acordado trabajar en sprints de 3 semanas durante un período total
 
 #### 3.7. Requisitos de recursos
 
-Para el desarrollo del proyecto se requerirá de recursos tanto humanos como tecnológicos. El equipo XP estará compuesto por 3 desarrolladores (1 para backend y 2 para desarrollo móvil), además de un Jefe de Proyecto (Smith Ramos), un Coach (Dafne Huertas), un Tester () estos 2 últimos ya elegidos, además de los clientes representados por el personal de Diamond Barbershop.
+Para el desarrollo del proyecto se requerirá de recursos tanto humanos como tecnológicos. El equipo XP estará compuesto por 3 desarrolladores (1 para backend y 2 para desarrollo móvil), además de un Jefe de Proyecto (Smith Ramos), un Coach (Dafne Huertas), un Tester (Diego Caballero), un Tracker () además de los clientes representados por el personal de Diamond Barbershop.
 
 Entre los recursos tecnológicos necesarios se incluyen laptops personales que tengan java 17, acceso a Android Studio y también alguna otra IDE como Netbeans o IntelliJ Idea, servidor MySQL local, herramientas de control de versiones (GitHub), plataformas de comunicación (Google Meet, WhatsApp) y almacenamiento colaborativo (Google Drive).
 

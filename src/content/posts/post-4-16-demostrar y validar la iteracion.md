@@ -1,9 +1,9 @@
 ---
-title: "16. Demostrar y validar el sprint"
+title: "16. Demostrar y validar la iteración"
 meta_title: ""
 description: "meta description"
 date: 2025-05-16T16:00:00+00:00
-image: "/images/posts/16-2.jpg"
+image: "/images/posts/16-4.jpg"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Sprint", "Demo"]
@@ -29,13 +29,13 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
      alt="Roles XP Identificado" 
      style="display: block; margin: 20px auto; max-width: 35%;" />
 
-#### 16.2. Entregables del sprint
-Los entregables del presente sprint son los resultados concretos del trabajo realizado durante el sprint 2, que se mencionan en el siguiente documento:
+#### 16.2. Entregables de la iteración
+Los entregables del presente sprint son los resultados concretos del trabajo realizado durante la cuarta iteración, que se mencionan en el siguiente documento:
 
 ##### **Documento adjunto:**
- 🗎 [Entregables del Sprint](https://drive.google.com/file/d/1preWziD26ML-o8gwNEBYfi2rMVIrMMVl/view?usp=sharing)
+ 🗎 [Entregables de la iteración](https://drive.google.com/file/d/1preWziD26ML-o8gwNEBYfi2rMVIrMMVl/view?usp=sharing)
 
-Para el sprint 2, tenemos entregables de tipo front y back, como se muestra a continuación:
+Para la cuarta iteración, tenemos entregables de tipo front y back, como se muestra a continuación:
 <img src="/images/sprint_2/revision_entregable_front.jpg" 
      alt="Entregables del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
@@ -57,33 +57,38 @@ El Sprint Backlog incluye:
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 16.4. Criterios de terminado
-Para dar por terminado cada uno de los entregables, el Product Owner, tendrá en cuenta los siguientes criterios de terminado encontrados en el documento a continuación:
+Para dar por terminado cada uno de los entregables, el cliente, tendrá en cuenta los siguientes criterios de terminado encontrados en el documento a continuación:
+
 ##### **Documento adjunto:**
- 🗎 [Definición de terminado](https://docs.google.com/document/d/1FegcnlbyW98sGBzLuEzfHOhObxKXm3xwxTIutmEX6eg/edit?usp=sharing)
+ 🗎 [Definición de terminado](https://docs.google.com/document/d/1RyoU0brLExp52wnrdeELuDfTJyvl_uOmssSXkc1fkCo/edit?usp=sharing)
 
 #### 16.5. Criterios de aceptación de las historias de usuario
 Para la aceptación de los entregables, el Product Owner, tendrá en cuenta los siguientes criterios de terminado encontrados en el documento a continuación:
+
 ##### **Documento adjunto:**
- 🗎 [Historias de usuario y CA](https://docs.google.com/document/d/1sIdfQjdWxxfKKSsrdSCN6mlUbvD0Fpc8kRO_dRiyUuE/edit?usp=sharing)
+ 🗎 [Historias de usuario y CA](https://docs.google.com/document/d/1GMz3qxBJ_VikdJlE01ppzeShSoRdxZpVs3pcxA87bDY/edit?usp=sharing)
+
 
 #### 16.6. Cronograma de planificación de lanzamiento
 
 | Fecha | Evento/Hito | Descripción | Entregable / Resultado |
-| --- | --- | --- | --- |
-| 27 abr 2025 | Sprint 2 Planning | Refinamiento de backlog y selección de historias para Sprint 2. | Sprint 2 Backlog listo. |
-| 28 abr – 17 may | Sprint 2 Execution | CRUD de servicios y barberos, configuración de horarios. | Módulo de servicios y barberos operativo con interfaz móvil. |
-| 18 may 2025 | Sprint 2 Review & Retrospective | Demo de gestión de servicios y barberos; feedback. | Incremento de producto: Gestión de servicios y barberos. |
+| ----- | ------ | ------ | ------ |
+| 9 jun 2025 | Iteración 4 Planning | Selección de historias para recompensas y reportes. | Sprint 4 Backlog listo. |
+| 10 jun – 1 jul | Iteración 4 Execution | Lógica de recompensas, historial de citas y reportes de ingresos; ajustes finales. | Módulo de recompensas y reportes completos. |
+| 2 jul 2025 | Iteración 4 Review & Retrospective | Demo final de todas las funcionalidades; aprobación del Jefe de Proyecto. | Incremento de producto: App completa lista para lanzamiento. |
+| 3 jul 2025 | Release / Go‑Live | Despliegue de backend a producción y publicación de la APK. | Versión 2.0 disponible para el cliente. |
+| 4 jul 2025 | Cierre de Proyecto | Documentación final, entrega de manual de usuario y “lecciones aprendidas”. | Proyecto cerrado y entregado. |
 
 ### Herramientas
 
-#### 16.7. Reuniones de revisión del sprint
-En las reuniones de revisión del sprint, participan los integrantes del equipo principal de Scrum junto con los stakeholders relevantes.
+#### 16.7. Reuniones de revisión de iteración
+En las reuniones de revisión de iteración, participan los integrantes del equipo principal de XP junto con los clientes relevantes.
 
 <img src="/images/sprint_2/reunion_team.png" 
      alt="Reuniones de revisión del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-Durante estas sesiones, que se llevan a cabo al finalizar cada sprint, se evalúan los entregables para aceptar aquellos que cumplen con los criterios de aceptación establecidos en las historias de usuario, y rechazar los que no los satisfacen.
+Durante estas sesiones, que se llevan a cabo al finalizar cada iteración, se evalúan los entregables para aceptar aquellos que cumplen con los criterios de aceptación establecidos en las historias de usuario, y rechazar los que no los satisfacen.
 
 <img src="/images/sprint_2/sprint_done.jpg"
      alt="Reuniones de revisión del sprint" 
@@ -92,6 +97,7 @@ Durante estas sesiones, que se llevan a cabo al finalizar cada sprint, se evalú
 ### Salidas
 
 #### 16.8. Entregables aceptados
-Luego de que el Product Owner dio por terminado y aceptado los entregables, tenemos el documento de entregables aceptados.
+Luego de que el proyecto se dé por terminado y aceptado los entregables, tenemos el documento de entregables aceptados.
+
 ##### **Documento adjunto:**
  🗎 [Entregables aceptados](https://drive.google.com/file/d/1I2lmuC4vnqfv16tBFTfU0y6o-ACkw17K/view?usp=sharing)

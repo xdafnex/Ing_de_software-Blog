@@ -3,7 +3,7 @@ title: "13. Crear entregables"
 meta_title: ""
 description: "meta description"
 date: 2025-05-02T13:20:00+00:00
-image: "/images/posts/13-2.png"
+image: "/images/posts/13-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Tareas", "Entregables"]
@@ -37,12 +37,12 @@ El Sprint Backlog incluye:
 ##### **Documento adjunto:**
  🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1lQ18cQgmmZzbcETQbqpjNAAbMiPZrPR_/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
 
-Este documento se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
+Este documento se actualizará a medida que avanzamos en la iteración, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
 #### 13.3. Scrumboard 
-El Scrumboard desempeña un papel fundamental al permitir visualizar el avance del trabajo, fortalecer la colaboración y comunicación del equipo, detectar posibles obstáculos y garantizar que las actividades se mantengan alineadas con los objetivos del sprint. Asimismo, contribuye a una mejor planificación y fomenta la transparencia, la capacidad de adaptación y la eficiencia en el desempeño del equipo.
+El Scrumboard desempeña un papel fundamental al permitir visualizar el avance del trabajo, fortalecer la colaboración y comunicación del equipo, detectar posibles obstáculos y garantizar que las actividades se mantengan alineadas con los objetivos de la iteración. Asímismo, contribuye a una mejor planificación y fomenta la transparencia, la capacidad de adaptación y la eficiencia en el desempeño del equipo.
 
- 📷 Imagenes de [Reunion de scrumboard]
+ 📷 Imagenes de [Reunión de scrumboard]
  <img src="/images/sprint_2/scrumboard_2.png" 
      alt="Reunion de scrumboard" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
@@ -64,7 +64,7 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
      alt="Experiencia del equipo" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-#### 13.6. Entregables del sprint
+#### 13.6. Entregables de la iteración
 
 ##### **Documento adjunto:**
  🗎 [Entregables del sprint](https://drive.google.com/file/d/1preWziD26ML-o8gwNEBYfi2rMVIrMMVl/view?usp=sharing)

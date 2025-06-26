@@ -3,7 +3,7 @@ title: "7. Crear historias de usuario"
 meta_title: ""
 description: "meta description"
 date: 2025-04-28T07:40:00+00:00
-image: "/images/posts/07-2.png"
+image: "/images/posts/07-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["Backlog", "Historias de usuario"]

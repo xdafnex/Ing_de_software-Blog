@@ -3,7 +3,7 @@ title: "1. Creando la visión del proyecto"
 meta_title: ""
 description: "En este apartado se definirá la visión del proyecto, los objetivos, los objetivos específicos y la solución tecnológica propuesta."
 date: 2025-04-28T01:00:00Z
-image: "/images/posts/01-2.jpg"
+image: "/images/posts/01-4.png"
 categories: ["xp"]
 authors: ["Dafne Huertas"]
 tags: ["vision", "proyecto"]
@@ -51,13 +51,13 @@ Para cumplir con los objetivos del proyecto, se plantea el desarrollo de una apl
 #### 1.2. Visión de la empresa
 > Ser reconocida como la barbería de preferencia en el distrito de Villa Maria del Triunfo por ofrecer un servicio de alta calidad, atención personalizada y una experiencia moderna, combinando estilo tradicional con tecnología para la comodidad de nuestros clientes.
 
-#### 1.3. Visión de la empresa
+#### 1.3. Misión de la empresa
 > Ofrecer servicios de corte de cabello, afeitado y cuidado personal con calidad, compromiso y atención al cliente, en un ambiente cómodo y profesional que promueva el bienestar y la confianza de cada persona que nos visita.
 
 ### Herramientas
 
-#### 1.4. Reunión de vision del proyecto
-Se realizaron reuniones del equipo Scrum principal junto al stakeholder, para un mejor entedimiento de la visión del proyecto.
+#### 1.4. Reunión de visión del proyecto
+Se realizaron reuniones del equipo Scrum XP junto al cliente, para un mejor entedimiento de la visión del proyecto.
 
 <img src="/images/sprint_2/reunion_mas_stakeholder.jpg" 
      alt="Reunion de vision del proyecto" 
@@ -102,7 +102,7 @@ El desarrollo de esta aplicación móvil cerrará esta brecha al automatizar pro
 ### Salidas
 
 #### 1.7. Jefe de proyecto identificado
-Posterior a la reunión interna que se tuvo entre los involucrados en el proyecto, se llegó al acuerdo que la integrante: Smith Seleni Ramos Sanchez, es la elegida para ser Product Owner del equipo debido a las siguientes razones:
+Posterior a la reunión interna que se tuvo entre los involucrados en el proyecto, se llegó al acuerdo que la integrante: Smith Seleni Ramos Sanchez, es la elegida para ser Jefe de Proyecto del equipo debido a las siguientes razones:
 - Experiencia en el framework
 - Cercanía al establecimiento, vive en Villa María del Triunfo
 
