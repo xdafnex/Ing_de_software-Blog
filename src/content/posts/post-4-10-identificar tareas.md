@@ -32,8 +32,24 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 Posterior a las reuniones se estableció que las historias de usuario que se desarrollarán en la cuarta iteración, serán las siguientes:
 
- <img src="/images/xp/reemplazar.png" 
-     alt="Historias de usuarios" 
+<img src="/images/xp/hu1-4.png" 
+     alt="Historias de usuarios 1" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu2-4.png" 
+     alt="Historias de usuarios 2" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu3-4.png" 
+     alt="Historias de usuarios 3" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu4-4.png" 
+     alt="Historias de usuarios 4" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu5-4.png" 
+     alt="Historias de usuarios 5" 
      style="display: block; margin: 20px auto; max-width: 90%;" />
 
  📷 Imagenes de [Historias de usuarios]

@@ -32,7 +32,7 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 La lista de tareas estimadas en función del esfuerzo requerido resulta fundamental para una planificación eficiente de la iteración. A continuación, se expone un documento con las estimaciones asignadas a las historias de usuario y sus respectivas tareas, las cuales fueron determinadas mediante la técnica de Planning Poker.
 
 ##### **Documento adjunto:**
- 🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1Qxb3_033ila0bnI6jPO1QrRUneqtbYMN/view?usp=sharing)
+ 🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1HrMbmWmONkJlYgDPRCeay7tZm0Zqugzj/view?usp=sharing)
 
 #### 12.3. Duración de la iteración
 Se estableció dadas las fechas del ciclo universitario que la duración de las iteraciones será de 3 semanas cada uno.
@@ -66,7 +66,7 @@ El Backlog de la iteración incluye:
 - Estimaciones de esfuerzo para cada tarea.
 
 ##### **Documento adjunto:**
- 🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1lQ18cQgmmZzbcETQbqpjNAAbMiPZrPR_/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
+ 🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1nYnzbE_RGJRdWk0OzwQJm9pGUs4zZNcP/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
 
 Este documento se actualizará a medida que avanzamos en la iteración, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
  
