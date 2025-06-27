@@ -34,7 +34,7 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 | --- | --- | --- | --- |
 | 1 | **Autenticación y maquetas móviles** | Permite el acceso al sistema, diferenciación de roles y estructura base de navegación | Es base para el resto del sistema (alta dependencia + alto valor) |
 | 2 | **Gestión de servicios y barberos** | Permite mantener el catálogo de servicios y recursos humanos | Necesario para crear reservas (dependencia directa) |
-| 3 | **Funcionalidades de reservas, historial, pagos, notificaciones y landing** | Proceso completo de generación y confirmación de citas con alertas | Funcionalidad principal desde el punto de vista del cliente |
+| 3 | **Funcionalidades de reservas, historial, pagos, notificaciones y landing** | Proceso completo de generación y confirmación de citas con alertas y creación de landing page. | Funcionalidad principal desde el punto de vista del cliente |
 | 4 | **Recompensas y reportes** | Beneficios por fidelidad y control administrativo | Complementario, no bloquea funcionalidades anteriores |
 
 #### 7.3. Criterios de terminado

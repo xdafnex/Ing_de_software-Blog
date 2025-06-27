@@ -59,9 +59,9 @@ El principal objetivo de esta reunión fue revisar las historias de usuario prev
 #### 10.4. Lista de tareas
 
 ##### **Documento adjunto:**
-🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+🗎 [Lista de tareas](https://docs.google.com/document/d/192-JGARcDje7qQpXtftwgl2Bxn2wIkMUwMj2R903mmI/edit?usp=sharing)
 
  📷 Imagenes de [Tareas en Jira]
- <img src="/images/xp/reemplazar.png" 
+ <img src="/images/xp/lista_tareas4.png" 
      alt="Lista de tareas" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

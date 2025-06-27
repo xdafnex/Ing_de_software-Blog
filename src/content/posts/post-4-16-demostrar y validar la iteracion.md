@@ -37,7 +37,7 @@ Los entregables del presente sprint son los resultados concretos del trabajo rea
 
 Para la cuarta iteración, tenemos entregables de tipo front y back, como se muestra a continuación:
 <img src="/images/sprint_2/revision_entregable_front.jpg" 
-     alt="Entregables del sprint" 
+     alt="Entregables de la iteracion" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 16.3. Sprint Backlog

@@ -31,10 +31,10 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 11.2. Lista de tareas
 
 ##### **Documento adjunto:**
-🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+🗎 [Lista de tareas](https://docs.google.com/document/d/192-JGARcDje7qQpXtftwgl2Bxn2wIkMUwMj2R903mmI/edit?usp=sharing)
 
  📷 Imagenes de [Tareas en Jira]
- <img src="/images/sprint_2/tareas.png" 
+ <img src="/images/xp/lista_tareas4.png" 
      alt="Lista de tareas" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -69,6 +69,6 @@ La lista de tareas estimadas en función del esfuerzo requerido resulta fundamen
  🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1Qxb3_033ila0bnI6jPO1QrRUneqtbYMN/view?usp=sharing)
 
  📷 Imagenes de [Tareas estimadas en Jira]
- <img src="/images/sprint_2/tareas_estimadas.png" 
+ <img src="/images/xp/tareas_estimadas4.png" 
      alt="Lista de tareas" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
