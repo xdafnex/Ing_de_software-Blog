@@ -35,7 +35,7 @@ Dafne Huertas Gonzales, es Coach en base a su experiencia en la gestión de proy
 En este caso, el Impediment Log permitió identificar y documentar los problemas específicos surgidos en el proyecto de digitalización de la biblioteca, asegurando un seguimiento claro de los desafíos técnicos, humanos y operativos que impactan el progreso del equipo. Gracias a ello, se facilita la planificación e implementación de acciones correctivas para abordar estos impedimentos de forma oportuna.
 
 ##### **Documento adjunto:**
- 🗎 [Impediment Log](https://docs.google.com/document/d/1Wm83XsObIHL0DMI6-M8gQUWEvj2DW5Zx6lBl5vEHLh0/edit?usp=sharing)
+ 🗎 [Impediment Log](https://docs.google.com/document/d/1BffCpf1HhRq9Woq6ISu1Drljpy4naYFnpLrb9-TX1Pw/edit?usp=sharing)
 
 ### Herramientas
 
@@ -43,7 +43,7 @@ En este caso, el Impediment Log permitió identificar y documentar los problemas
 El Daily Standup es una reunión corta que se realiza diariamente, en la cual el equipo de desarrollo expone las actividades realizadas el día anterior, las tareas en curso y cualquier dificultad que pueda estar afectando el progreso. En el proyecto de sistema de gestion para una barbería, estas reuniones son clave para mantener la alineación del equipo, facilitar la resolución ágil de inconvenientes y asegurar el avance continuo de las tareas, promoviendo así un desarrollo sostenido del sistema.
 
 ##### **Documento adjunto:**
- 🗎 [Daily Standup](https://docs.google.com/spreadsheets/d/1VJSOyAcDWuh6PMJyDNNBtCIdm6VjR92oBmLRf1PWv5U/edit?usp=sharing)
+ 🗎 [Daily Standup](https://docs.google.com/spreadsheets/d/1FnFx14yJ2iSidLSAhznKT0S7XbcUza8U6TbB2_EpSeY/edit?usp=sharing)
 
 <img src="/images/sprint_2/daily_andre.jpg" 
      alt="Sprint Burnup Chart" 
@@ -55,13 +55,7 @@ Un "Sprint Burnup Chart" muestra el trabajo completado y el alcance total del sp
 Esta gráfica se actualizará a medida que avanzamos en la iteración, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
 📷 Imagen de [Burnup Chart]
-<img src="/images/sprint_2/burnup_chart.png" 
-     alt="Sprint Burnup Chart" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-##### **Burnup Chart:**
-📷 Imagen de [Burnup Chart Actualizado]
-<img src="/images/sprint_2/burnup_report.jpg" 
+<img src="/images/xp/burnupchart_xp.png" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -76,4 +70,4 @@ Esta gráfica se actualizará a medida que avanzamos en la iteración, permitien
 #### 14.8. Impediment Log actualizado
 
 ##### **Documento adjunto:**
- 🗎 [Impediment Log actualizado](https://docs.google.com/document/d/1Wm83XsObIHL0DMI6-M8gQUWEvj2DW5Zx6lBl5vEHLh0/edit?usp=sharing)
+ 🗎 [Impediment Log actualizado](https://docs.google.com/document/d/1BffCpf1HhRq9Woq6ISu1Drljpy4naYFnpLrb9-TX1Pw/edit?usp=sharing)

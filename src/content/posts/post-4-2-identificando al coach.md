@@ -5,7 +5,7 @@ description: "meta description"
 date: 2025-04-28T02:10:00Z
 image: "/images/posts/02-4.png"
 authors: ["Dafne Huertas"]
-tags: ["scrum master", "stakeholder"]
+tags: ["coach", "clientes"]
 draft: false
 categories: ["xp"]
 ---
