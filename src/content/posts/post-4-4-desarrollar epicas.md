@@ -5,7 +5,7 @@ description: "meta description"
 date: 2025-04-28T04:00:00+00:00
 image: "/images/posts/04-4.jpg"
 authors: ["Dafne Huertas"]
-tags: ["Scrum", "Épicas"]
+tags: ["XP", "Épicas"]
 draft: false
 categories: ["xp"]
 ---
@@ -63,9 +63,9 @@ Descripción: En esta épica se implementa el flujo de acceso al sistema mediant
 
 Descripción: Aquí se construyen las funcionalidades que permiten al administrador crear, editar y eliminar tanto los servicios ofrecidos (cortes, barba, tratamientos) como los barberos y sus horarios de atención. Se desarrollan endpoints CRUD en el backend y las interfaces móviles necesarias para listar, registrar y modificar estos datos, garantizando validaciones de disponibilidad y consistencia en el calendario de trabajo.
 
-**3. Reservas y notificaciones**
+**3. Funcionalidades de reservas, historial, pagos, notificaciones y landing**
 
-Descripción: Esta épica abarca el “carrito de reserva” para que el cliente seleccione servicios y extras, elija fecha y hora, y genere una cita. Incluye la lógica de back‑office para que el administrador pueda confirmar o cancelar reservas, así como la puesta en marcha de una integración básica para enviar notificaciones automáticas vía WhatsApp al cliente con el estado de su cita.
+Descripción: Esta épica abarca el “carrito de reserva” para que el cliente seleccione servicios y extras, elija fecha y hora, y genere una cita. Incluye la lógica de back‑office para que el administrador pueda confirmar o cancelar reservas, así como la puesta en marcha de una integración básica para enviar notificaciones automáticas vía WhatsApp al cliente con el estado de su cita con alertas y creación de landing page.
 
 **4. Recompensas y reportes**
 

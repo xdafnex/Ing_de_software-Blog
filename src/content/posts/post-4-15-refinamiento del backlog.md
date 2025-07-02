@@ -31,14 +31,14 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 15.2. Backlog Priorizado del Producto
 El Backlog Priorizado incluye:
 
-<img src="/images/sprint_2/backlog_prioridad.png" 
+<img src="/images/xp/backlog_priorizado_sprint4.png" 
      alt="Backlog Priorizado del Producto" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Herramientas
 
-#### 15.3. Reunion de revision del backlog priorizado del producto
-La reunión de revisión del Backlog Priorizado del Producto brinda una oportunidad para que el equipo XP y los stakeholders revisen y actualicen dicho backlog. En esta sesión, el Jefe de proyecto expone las historias de usuario priorizadas, mientras que el equipo XP analiza y ajusta los detalles necesarios para garantizar que dichas historias estén preparadas para integrarse al Sprint Backlog.
+#### 15.3. Reunión de revision del backlog priorizado del producto
+La reunión de revisión del Backlog Priorizado del Producto brinda una oportunidad para que el equipo XP y los clientes revisen y actualicen dicho backlog. En esta sesión, el Jefe de proyecto expone las historias de usuario priorizadas, mientras que el equipo XP analiza y ajusta los detalles necesarios para garantizar que dichas historias estén preparadas para integrarse al Sprint Backlog.
 
 <img src="/images/sprint_2/backlog_priorizado.jpg" 
      alt="Reunion de revision del backlog priorizado del producto" 

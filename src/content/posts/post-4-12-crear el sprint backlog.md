@@ -53,7 +53,7 @@ Se realizó una reunión de planificación de tareas junto al cliente para discu
 #### 12.7. Herramientas del seguimiento de la iteración
 Se realizó el seguimiento de la iteración utilizando el método Scrumboard, ya que tiene una visión más global del proyecto y así mismo la divide en tres secciones; To Do, In progress y Completed.
 
-<img src="/images/sprint_2/scrumboard_sprint2.png" 
+<img src="/images/xp/scrumboard_xp.png" 
      alt="Herramientas del seguimiento del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -75,6 +75,6 @@ Un "Gráfico Burnup Chart" muestra el trabajo completado y el alcance total del 
 
 Este gráfico se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
-<img src="/images/sprint_2/burnup_chart.png" 
+<img src="/images/xp/sprint_burnupchart.jpg" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

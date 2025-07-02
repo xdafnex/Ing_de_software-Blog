@@ -52,12 +52,12 @@ El Scrumboard desempeña un papel fundamental al permitir visualizar el avance d
 En este caso, el Impediment Log permitió identificar y documentar los problemas específicos surgidos en el proyecto de digitalización de la biblioteca, asegurando un seguimiento claro de los desafíos técnicos, humanos y operativos que impactan el progreso del equipo. Gracias a ello, se facilita la planificación e implementación de acciones correctivas para abordar estos impedimentos de forma oportuna.
 
 ##### **Documento adjunto:**
- 🗎 [Impediment Log](https://docs.google.com/document/d/1Wm83XsObIHL0DMI6-M8gQUWEvj2DW5Zx6lBl5vEHLh0/edit?usp=sharing)
+ 🗎 [Impediment Log](https://docs.google.com/document/d/1BffCpf1HhRq9Woq6ISu1Drljpy4naYFnpLrb9-TX1Pw/edit?usp=sharing)
 
 ### Herramientas
 
 #### 13.5. Experiencia del equipo
-En el proyecto de Sistema de gestion para barbería, la experiencia del equipo evidencia el conocimiento compartido y las competencias de los integrantes del Equipo Scrum para llevar a cabo el trabajo previsto y alcanzar los resultados esperados. Cada integrante aporta su experiencia técnica y criterio profesional en la ejecución de las tareas del Sprint Backlog, tomando decisiones clave para transformar las historias de usuario en productos funcionales.
+En el proyecto de Sistema de gestion para barbería, la experiencia del equipo evidencia el conocimiento compartido y las competencias de los integrantes del Equipo XP para llevar a cabo el trabajo previsto y alcanzar los resultados esperados. Cada integrante aporta su experiencia técnica y criterio profesional en la ejecución de las tareas del Sprint Backlog, tomando decisiones clave para transformar las historias de usuario en productos funcionales.
 
  📷 Imagenes de [Experiencia del equipo]
  <img src="/images/sprint_2/scrumboard_1.jpg" 
@@ -72,6 +72,6 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
 #### 13.7. Scrumboard actualizado
 El Scrum Board Actualizado refleja el progreso en tiempo real del equipo, mostrando tareas pendientes, en progreso y completadas. Facilita la colaboración, la identificación de bloqueos y el seguimiento continuo del Sprint.
 
-<img src="/images/sprint_2/scrumboard_sprint2.png" 
+<img src="/images/xp/scrumboard_xp.png" 
      alt="Scrumboard actualizado" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

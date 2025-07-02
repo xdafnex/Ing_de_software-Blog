@@ -35,7 +35,7 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 Posterior a la reunión entre todos los integrantes del equipo XP, se establecieron las siguientes épicas.
 1. Autenticación y maquetas móviles
 2. Gestión de servicios y barberos
-3. Reservas y notificaciones
+3. Funcionalidades de reservas, historial, pagos, notificaciones y landing
 4. Recompensas y reportes
 
  📷 Imagenes de [épicas en Jira]
