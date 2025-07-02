@@ -48,7 +48,7 @@ La reunión de revisión del Backlog Priorizado del Producto brinda una oportuni
 ### Salidas
 
 #### 15.4. Backlog Priorizado del Producto actualizado
-<img src="/images/sprint_2/backlog_2.png" 
+<img src="/images/xp/backlog_4.png" 
      alt="Backlog Priorizado del Producto actualizado" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 

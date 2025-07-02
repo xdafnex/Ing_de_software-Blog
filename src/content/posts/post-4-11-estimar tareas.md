@@ -31,10 +31,10 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 11.2. Lista de tareas
 
 ##### **Documento adjunto:**
-🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+🗎 [Lista de tareas](https://docs.google.com/document/d/192-JGARcDje7qQpXtftwgl2Bxn2wIkMUwMj2R903mmI/edit?usp=sharing)
 
  📷 Imagenes de [Tareas en Jira]
- <img src="/images/sprint_2/tareas.png" 
+ <img src="/images/xp/lista_tareas4.png" 
      alt="Lista de tareas" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -66,9 +66,53 @@ Se realizó una reunión realizando Planning Poker para las estimaciones de las 
 La lista de tareas estimadas en función del esfuerzo requerido resulta fundamental para una planificación eficiente de la iteración. A continuación, se expone un documento con las estimaciones asignadas a las historias de usuario y sus respectivas tareas, las cuales fueron determinadas mediante la técnica de Planning Poker.
 
 ##### **Documento adjunto:**
- 🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1Qxb3_033ila0bnI6jPO1QrRUneqtbYMN/view?usp=sharing)
+ 🗎 [Effort Estimated Task List](https://drive.google.com/file/d/1HrMbmWmONkJlYgDPRCeay7tZm0Zqugzj/view?usp=sharing)
 
  📷 Imagenes de [Tareas estimadas en Jira]
- <img src="/images/sprint_2/tareas_estimadas.png" 
+ <img src="/images/xp/tareas_estimadas4.png" 
      alt="Lista de tareas" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+📷 Imagenes de [Tablas de Tareas estimadas XP]
+ <img src="/images/xp/tarea1_4.png" 
+     alt="Tabla de tareas1" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+<img src="/images/xp/tarea2_4.png" 
+     alt="Tabla de tareas2" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+<img src="/images/xp/tarea3_4.png" 
+     alt="Tabla de tareas3" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea4_4.png" 
+     alt="Tabla de tareas4" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea5_4.png" 
+     alt="Tabla de tareas5" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea6_4.png" 
+     alt="Tabla de tareas6" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea7_4.png" 
+     alt="Tabla de tareas7" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea8_4.png" 
+     alt="Tabla de tareas8" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea9_4.png" 
+     alt="Tabla de tareas9" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea10_4.png" 
+     alt="Tabla de tareas10" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea11_4.png" 
+     alt="Tabla de tareas11" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea12_4.png" 
+     alt="Tabla de tareas12" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea13_4.png" 
+     alt="Tabla de tareas13" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+ <img src="/images/xp/tarea14_4.png" 
+     alt="Tabla de tareas14" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

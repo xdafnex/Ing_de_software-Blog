@@ -35,7 +35,7 @@ El Sprint Backlog incluye:
 - Estimaciones de esfuerzo para cada tarea.
 
 ##### **Documento adjunto:**
- 🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1lQ18cQgmmZzbcETQbqpjNAAbMiPZrPR_/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
+ 🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1nYnzbE_RGJRdWk0OzwQJm9pGUs4zZNcP/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
 
 Este documento se actualizará a medida que avanzamos en la iteración, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
@@ -67,7 +67,7 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
 #### 13.6. Entregables de la iteración
 
 ##### **Documento adjunto:**
- 🗎 [Entregables del sprint](https://drive.google.com/file/d/1preWziD26ML-o8gwNEBYfi2rMVIrMMVl/view?usp=sharing)
+ 🗎 [Entregables de la iteración](https://drive.google.com/file/d/152H0MFRMDqHqEDzfZ-LjWIo1OlXo9cHp/view?usp=sharing)
 
 #### 13.7. Scrumboard actualizado
 El Scrum Board Actualizado refleja el progreso en tiempo real del equipo, mostrando tareas pendientes, en progreso y completadas. Facilita la colaboración, la identificación de bloqueos y el seguimiento continuo del Sprint.

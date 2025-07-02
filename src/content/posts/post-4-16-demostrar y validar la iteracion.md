@@ -33,11 +33,11 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 Los entregables del presente sprint son los resultados concretos del trabajo realizado durante la cuarta iteración, que se mencionan en el siguiente documento:
 
 ##### **Documento adjunto:**
- 🗎 [Entregables de la iteración](https://drive.google.com/file/d/1preWziD26ML-o8gwNEBYfi2rMVIrMMVl/view?usp=sharing)
+ 🗎 [Entregables de la iteración](https://drive.google.com/file/d/152H0MFRMDqHqEDzfZ-LjWIo1OlXo9cHp/view?usp=sharing)
 
 Para la cuarta iteración, tenemos entregables de tipo front y back, como se muestra a continuación:
 <img src="/images/sprint_2/revision_entregable_front.jpg" 
-     alt="Entregables del sprint" 
+     alt="Entregables de la iteracion" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 16.3. Sprint Backlog
@@ -50,10 +50,10 @@ El Sprint Backlog incluye:
 ##### **Documento adjunto:**
  🗎 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1lQ18cQgmmZzbcETQbqpjNAAbMiPZrPR_/edit?usp=sharing&ouid=105357714069578698229&rtpof=true&sd=true)
 
- Este documento se actualiza a medida que avanzamos en el sprint, en simultáneo con el scrumboard, el cual da una visión clara de las tareas completadas.
+ Este documento se actualiza a medida que avanzamos en la cuarta iteración, en simultáneo con el scrumboard, el cual da una visión clara de las tareas completadas.
 
  <img src="/images/sprint_2/sprint_finish.jpg" 
-     alt="Reuniones de revisión del sprint" 
+     alt="Reuniones de revisión de la iteracion"
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 16.4. Criterios de terminado
@@ -100,4 +100,4 @@ Durante estas sesiones, que se llevan a cabo al finalizar cada iteración, se ev
 Luego de que el proyecto se dé por terminado y aceptado los entregables, tenemos el documento de entregables aceptados.
 
 ##### **Documento adjunto:**
- 🗎 [Entregables aceptados](https://drive.google.com/file/d/1I2lmuC4vnqfv16tBFTfU0y6o-ACkw17K/view?usp=sharing)
+ 🗎 [Entregables aceptados](https://drive.google.com/file/d/1JjFzn_1DyuqGl1GVqY3zNR7ciOPTONjv/view?usp=sharing)

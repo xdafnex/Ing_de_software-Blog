@@ -32,8 +32,24 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 
 Posterior a las reuniones se estableció que las historias de usuario que se desarrollarán en la cuarta iteración, serán las siguientes:
 
- <img src="/images/xp/reemplazar.png" 
-     alt="Historias de usuarios" 
+<img src="/images/xp/hu1-4.png" 
+     alt="Historias de usuarios 1" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu2-4.png" 
+     alt="Historias de usuarios 2" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu3-4.png" 
+     alt="Historias de usuarios 3" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu4-4.png" 
+     alt="Historias de usuarios 4" 
+     style="display: block; margin: 20px auto; max-width: 90%;" />
+
+<img src="/images/xp/hu5-4.png" 
+     alt="Historias de usuarios 5" 
      style="display: block; margin: 20px auto; max-width: 90%;" />
 
  📷 Imagenes de [Historias de usuarios]
@@ -59,9 +75,9 @@ El principal objetivo de esta reunión fue revisar las historias de usuario prev
 #### 10.4. Lista de tareas
 
 ##### **Documento adjunto:**
-🗎 [Lista de tareas](https://docs.google.com/document/d/1hz3541Hj6foB77w7X7nruC1tG5B6bGsst5RV54BRSBY/edit?usp=sharing)
+🗎 [Lista de tareas](https://docs.google.com/document/d/192-JGARcDje7qQpXtftwgl2Bxn2wIkMUwMj2R903mmI/edit?usp=sharing)
 
  📷 Imagenes de [Tareas en Jira]
- <img src="/images/xp/reemplazar.png" 
+ <img src="/images/xp/lista_tareas4.png" 
      alt="Lista de tareas" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
