@@ -78,7 +78,7 @@ Posterior a las reuniones se estableció que las historias de usuario que se des
      alt="Historias de usuarios 5" 
      style="display: block; margin: 20px auto; max-width: 90%;" />
 
- 📷 Imagenes de [Historias de usuarios]
+ 📷 Imágenes de [Historias de usuarios comprometidas]
  <img src="/images/xp/historias_sprint4.png" 
      alt="Historias de usuarios" 
      style="display: block; margin: 20px auto; max-width: 90%;" />

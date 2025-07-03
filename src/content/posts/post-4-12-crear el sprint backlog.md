@@ -57,6 +57,26 @@ Se realizó el seguimiento de la iteración utilizando el método Scrumboard, ya
      alt="Herramientas del seguimiento del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
+#### 12.8. Integración continua
+La Integración Continua es una práctica de desarrollo de software que implica la automatización de la integración de código de múltiples desarrolladores en un único repositorio compartido. Cada cambio es validado automáticamente mediante pruebas y compilaciones, lo que asegura la calidad del software de manera continua.
+
+Los módulos dentro del código se encuentra de la siguiente manera:
+
+**Backend**
+
+El backend representa la lógica de negocio y la gestión de datos del sistema. Es el núcleo que conecta la interfaz con la base de datos, proporcionando funcionalidades esenciales.
+
+<img src="/images/xp/backend.png" 
+     alt="Integracion continua back" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+**Frontend**
+El frontend es la interfaz gráfica que interactúa directamente con los usuarios. Su objetivo es garantizar una experiencia intuitiva y eficiente al momento de realizar acciones como préstamos o devoluciones.
+
+<img src="/images/xp/frontend.png" 
+     alt="Integracion continua front" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 ### Salidas
 
 #### 12.9. Backlog de la iteración
