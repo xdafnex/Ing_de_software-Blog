@@ -56,8 +56,16 @@ Se realizó una reunión de planificación de tareas junto al equipo xp para dis
 
 #### 11.5. Metodos de estimación
 Se realizó una reunión realizando Planning Poker para las estimaciones de las tareas, siguiendo la estructura de las estimaciones de las historias de usuario.
-<img src="/images/sprint_2/estimacion_poker.jpg" 
+<img src="/images/xp/planing_poker1.jpg" 
      alt="Metodos de estimación" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/xp/planing_poker2.jpg" 
+     alt="Metodos de estimación2" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/xp/planing_poker3.jpg" 
+     alt="Metodos de estimación3" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas

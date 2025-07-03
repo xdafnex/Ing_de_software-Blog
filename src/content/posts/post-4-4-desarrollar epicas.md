@@ -28,6 +28,16 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
      alt="Roles XP Identificado" 
      style="display: block; margin: 20px auto; max-width: 35%;" />
 
+#### 4.2. Valores
+
+El equipo completo al integrar XP con Scrum, se guía de los siguientes valores como pilares para el correcto cumplimiento de las actividades:
+
+**Lista de valores**
+
+<img src="/images/xp/valoresxp.png" 
+     alt="Valores XP" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 #### 4.2. Declaración de la visión del proyecto
 
 ##### **Documento adjunto:**

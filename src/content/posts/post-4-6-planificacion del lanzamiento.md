@@ -54,7 +54,20 @@ Los principales clientes son Jheremy Solis Quispe (dueño de la barbería y trab
 
 ### Herramientas
 
-#### 6.6. Sesiones de planificación del lanzamiento
+#### 6.6. Plan de  iteración
+El proyecto se estructuró en cuatro iteraciones, resultando en cuatro entregables completamente funcionales. Los tres primeros entregables se desarrollaron utilizando el marco de trabajo SCRUM, mientras que el último se implementó aplicando las prácticas de XP.
+
+**Objetivos**
+- Mejorar la calidad del código.
+- Minimizar los errores.
+
+Cada entregable fue evaluado por los clientes, quienes proporcionaron retroalimentación que se incorporó en las iteraciones siguientes, contribuyendo a la mejora continua del producto final. Al dividir el proyecto en iteraciones más pequeñas, el equipo pudo enfocarse en metas claras y alcanzables dentro de plazos definidos. El cumplimiento de objetivos concretos en cada iteración fomenta un sentido de logro, lo que mantuvo al equipo motivado a lo largo del proceso.
+
+<img src="/images/xp/plan_de_iteracion.png" 
+     alt="Plan de iteracion" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+#### 6.7. Sesiones de planificación del lanzamiento
 Se realizaron sesiones de planificación con todo el equipo Scrum para determinar correctamente el lanzamiento de la aplicación a implementar. Cada uno asumiendo su rol respectivo y dando claridad y precisión sobre el tema en cuestión
 
 <img src="/images/sprint_2/reunion_team.png" 
@@ -63,7 +76,7 @@ Se realizaron sesiones de planificación con todo el equipo Scrum para determina
 
 ### Salidas
 
-#### 6.7. Cronograma de planificación del lanzamiento
+#### 6.8. Cronograma de planificación del lanzamiento
 
 | Fecha | Evento/Hito | Descripción | Entregable / Resultado |
 | ----- | ------ | ------ | ------ |
@@ -77,10 +90,18 @@ Se realizaron sesiones de planificación con todo el equipo Scrum para determina
      alt="Duración de iteración" 
      style="display: block; margin: 20px auto; max-width: 70%;" />
 
-#### 6.8. Duración del iteración
+#### 6.9. Duración del iteración
 
 Se estableció dadas las fechas del ciclo universitario que la duración de las iteraciones será de 3 semanas cada uno.
 
 <img src="/images/xp/cronograma_sprint4.png" 
      alt="Duración del iteración" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
+
+#### 6.10. Plan de entregas
+
+Se estableció la entrega de dichas historias de usuario pertenecientes al plan de entrega según la cuarta iteración.
+
+<img src="/images/xp/plan_de_entregas.png" 
+     alt="Plan de entregas" 
+     style="display: block; margin: 20px auto; max-width: 80%;" />
