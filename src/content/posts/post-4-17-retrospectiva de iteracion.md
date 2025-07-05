@@ -1,5 +1,5 @@
 ---
-title: "17. Retrospectiva de iteracion"
+title: "17. Retrospectiva de iteración"
 meta_title: ""
 description: "meta description"
 date: 2025-05-17T17:00:00+00:00
@@ -48,10 +48,10 @@ Smith Seleni Ramos Sanchez, es Jefe de Proyecto en base a su experiencia en el f
 #### 17.5. Reunión retrospectiva de la iteración
 Durante esta sesión, se llevó a cabo un análisis detallado del sprint más reciente, en el cual se evaluaron tanto los éxitos obtenidos como los obstáculos encontrados. En el espacio de retrospectiva, se abordaron los aspectos positivos y las oportunidades de mejora, con el propósito de perfeccionar los procesos y mantener el progreso en el desarrollo del producto. La participación activa de cada integrante del equipo permitió identificar áreas de mejora clave, y se establecieron acciones específicas a implementar en el próximo sprint, buscando una ejecución más eficaz y alineada con los objetivos del proyecto. La tecnica utilizada para evaluar la retrospectiva fue “Star, stop, continue”
 
- 🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVI2oZCrU=/?share_link_id=316468690099)
+ 🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVIhSU8gI=/?share_link_id=442654942180)
 
-<img src="/images/sprint_2/retrospectiva_reunion.png" 
-     alt="Reuniones del grupo de enfoque" 
+<img src="/images/xp/retrospectiva.png" 
+     alt="Retrospectiva" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas

@@ -74,7 +74,7 @@ Permitir al usuario visualizar de forma clara, organizada y accesible todas las 
 
 Funcionalidad diseñada para motivar y fidelizar a los clientes, premiándolos por el uso frecuente del servicio. 
 
-<img src="/images/xp/historia_42.jpg" 
+<img src="/images/xp/crear_reserva_recompensa.jpg" 
      alt="Historia de Usuario 4.2" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
