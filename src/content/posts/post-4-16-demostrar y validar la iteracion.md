@@ -172,35 +172,35 @@ Los desarrolladores escriben pruebas automáticas para cada componente del códi
 **Historia de Usuario N° 4.1**
 - Historial de Citas (Cliente)
 
-<img src="/images/xp/prueba_historia_41.jpg" 
+<img src="/images/xp/reserva_progreso.jpg" 
      alt="Historia de Usuario 4.1" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.2**
 - Lógica de Recompensas
 
-<img src="/images/xp/prueba_historia_42.jpg" 
+<img src="/images/xp/filtro_recompensa.jpg" 
      alt="Historia de Usuario 4.2" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.3**
 - Indicador de Progreso
 
-<img src="/images/xp/prueba_historia_43.jpg" 
+<img src="/images/xp/progreso.png" 
      alt="Historia de Usuario 4.3" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.4**
 - Reporte de Ingresos Total (Admin)
 
-<img src="/images/xp/prueba_historia_44.jpg" 
+<img src="/images/xp/reporte_ganancia.jpg" 
      alt="Historia de Usuario 4.4" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.5**
 - Reporte por Cliente (Admin)
 
-<img src="/images/xp/prueba_historia_45.jpg" 
+<img src="/images/xp/reportes.jpg" 
      alt="Historia de Usuario 4.5" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -210,35 +210,35 @@ Se realizan pruebas para asegurar que el software cumpla con los requisitos del 
 **Historia de Usuario N° 4.1**
 - Historial de Citas (Cliente)
 
-<img src="/images/xp/aceptacion_historia_41.jpg" 
+<img src="/images/xp/historial.jpg" 
      alt="Historia de Usuario 4.1" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.2**
 - Lógica de Recompensas
 
-<img src="/images/xp/aceptacion_historia_42.jpg" 
+<img src="/images/xp/consultar_recompensa.jpg" 
      alt="Historia de Usuario 4.2" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.3**
 - Indicador de Progreso
 
-<img src="/images/xp/aceptacion_historia_43.jpg" 
+<img src="/images/xp/recompensa.jpg" 
      alt="Historia de Usuario 4.3" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.4**
 - Reporte de Ingresos Total (Admin)
 
-<img src="/images/xp/aceptacion_historia_44.jpg" 
+<img src="/images/xp/reporte_ingresos.jpg" 
      alt="Historia de Usuario 4.4" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.5**
 - Reporte por Cliente (Admin)
 
-<img src="/images/xp/aceptacion_historia_45.jpg" 
+<img src="/images/xp/reporte_obtener.jpg" 
      alt="Historia de Usuario 4.5" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
