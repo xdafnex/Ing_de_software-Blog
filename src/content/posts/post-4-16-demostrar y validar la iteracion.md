@@ -249,3 +249,4 @@ Luego de que el proyecto se dé por terminado y aceptado los entregables, tenemo
 
 ##### **Documento adjunto:**
  🗎 [Entregables aceptados](https://drive.google.com/file/d/1JjFzn_1DyuqGl1GVqY3zNR7ciOPTONjv/view?usp=sharing)
+ 
