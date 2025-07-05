@@ -65,7 +65,7 @@ Se basa en el principio de que dos desarrolladores trabajan juntos en una misma 
 
 Permitir al usuario visualizar de forma clara, organizada y accesible todas las citas que ha reservado y/o realizado dentro de la aplicación.
 
-<img src="/images/xp/historia_41.jpg" 
+<img src="/images/xp/reserva_progreso.jpg" 
      alt="Historia de Usuario 4.1" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -83,7 +83,7 @@ Funcionalidad diseñada para motivar y fidelizar a los clientes, premiándolos p
 
 Funcionalidad visual que muestra al cliente cuánto le falta para alcanzar su próxima recompensa dentro del sistema de fidelización.
 
-<img src="/images/xp/historia_43.jpg" 
+<img src="/images/xp/reserva_progreso.jpg" 
      alt="Historia de Usuario 4.3" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -92,7 +92,7 @@ Funcionalidad visual que muestra al cliente cuánto le falta para alcanzar su pr
 
 Funcionalidad orientada al administrador del sistema, que permite consultar y visualizar el total de ingresos generados.
 
-<img src="/images/xp/historia_44.jpg" 
+<img src="/images/xp/reporte_ingresos.jpg" 
      alt="Historia de Usuario 4.4" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -101,7 +101,7 @@ Funcionalidad orientada al administrador del sistema, que permite consultar y vi
 
 Funcionalidad destinada al administrador, que permite ver cuánto dinero ha generado cada cliente individualmente en la plataforma, en términos de servicios o citas pagadas. 
 
-<img src="/images/xp/historia_45.jpg" 
+<img src="/images/xp/reporte_cliente.jpg" 
      alt="Historia de Usuario 4.5" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -118,7 +118,7 @@ El Sprint Backlog incluye:
 
  Este documento se actualiza a medida que avanzamos en la cuarta iteración, en simultáneo con el scrumboard, el cual da una visión clara de las tareas completadas.
 
- <img src="/images/sprint_2/sprint_finish.jpg" 
+ <img src="/images/xp/backlog_rev.png" 
      alt="Reuniones de revisión de la iteracion"
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -156,7 +156,7 @@ En las reuniones de revisión de iteración, participan los integrantes del equi
 
 Durante estas sesiones, que se llevan a cabo al finalizar cada iteración, se evalúan los entregables para aceptar aquellos que cumplen con los criterios de aceptación establecidos en las historias de usuario, y rechazar los que no los satisfacen.
 
-<img src="/images/sprint_2/sprint_done.jpg"
+<img src="/images/xp/scrumboard_fin.png"
      alt="Reuniones de revisión del sprint" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 

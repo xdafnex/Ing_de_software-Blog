@@ -64,9 +64,31 @@ Durante esta sesión, se llevó a cabo un análisis detallado del sprint más re
 #### 17.7. Software funcional usado
 La barbería Diamond podrá usar el software para llevar un registro de las citas, los usuarios, barberos y las transacciones de la barbería. Esto le permitirá gestionar eficazmente sus citas y brindar un mejor servicio a los usuarios.
 
-<img src="/images/xp/software_funcional.png" 
+📷 Imagen de [Software finalizado]
+
+<img src="/images/xp/progreso_front.jpg" 
      alt="Software funcional usado" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
+     style="display: block; margin: 20px auto; max-width: 50%;" />
+
+<img src="/images/xp/catalogo_front.jpg" 
+     alt="Software funcional usado" 
+     style="display: block; margin: 20px auto; max-width: 50%;" />
+
+<img src="/images/xp/barbero_front.jpg" 
+     alt="Software funcional usado" 
+     style="display: block; margin: 20px auto; max-width: 50%;" />
+
+<img src="/images/xp/horarios_front.jpg" 
+     alt="Software funcional usado" 
+     style="display: block; margin: 20px auto; max-width: 50%;" />
+
+<img src="/images/xp/reserva_front.jpg" 
+     alt="Software funcional usado" 
+     style="display: block; margin: 20px auto; max-width: 50%;" />
+
+<img src="/images/xp/reserva_fin_front.jpg" 
+     alt="Software funcional usado" 
+     style="display: block; margin: 20px auto; max-width: 50%;" />
 
 #### 17.8. Cumplimiento de historias de usuario
 Se han cumplido todas las historias de usuario definidas en el proyecto, lo que garantiza que el software cumpla con los requisitos del cliente y sea útil para la barbería.

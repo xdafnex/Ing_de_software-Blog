@@ -66,17 +66,21 @@ Los módulos dentro del código se encuentra de la siguiente manera:
 
 El backend representa la lógica de negocio y la gestión de datos del sistema. Es el núcleo que conecta la interfaz con la base de datos, proporcionando funcionalidades esenciales.
 
-<img src="/images/xp/backend.png" 
+<img src="/images/xp/repositorio_back.jpg" 
      alt="Integracion continua back" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Frontend**
+
 El frontend es la interfaz gráfica que interactúa directamente con los usuarios. Su objetivo es garantizar una experiencia intuitiva y eficiente al momento de realizar acciones como préstamos o devoluciones.
 
-<img src="/images/xp/frontend.png" 
+<img src="/images/xp/frontend.jpg" 
      alt="Integracion continua front" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
+<img src="/images/xp/repositorio_front.png" 
+     alt="Integracion continua front" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
 ### Salidas
 
 #### 12.9. Backlog de la iteración
@@ -95,6 +99,6 @@ Un "Gráfico Burnup Chart" muestra el trabajo completado y el alcance total del 
 
 Este gráfico se actualizará a medida que avanzamos en el sprint, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
-<img src="/images/xp/sprint_burnupchart.jpg" 
+<img src="/images/xp/burnupchart_xp.png" 
      alt="Sprint Burnup Chart" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

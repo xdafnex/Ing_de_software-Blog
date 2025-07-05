@@ -72,25 +72,25 @@ Tercera clase: Reserva
      alt="crc3" 
      style="display: block; margin: 20px auto; max-width: 60%;" />
 
-Primera clase: Servicio
+Cuarta clase: Servicio
 
  <img src="/images/xp/crc4.png" 
      alt="crc4" 
      style="display: block; margin: 20px auto; max-width: 60%;" />
 
-Primera clase: HorarioBarbero
+Quinta clase: HorarioBarbero
 
  <img src="/images/xp/crc5.png" 
      alt="crc5" 
      style="display: block; margin: 20px auto; max-width: 60%;" />
 
-Primera clase: Authservice
+Sexta clase: Authservice
 
  <img src="/images/xp/crc6.png" 
      alt="crc6" 
      style="display: block; margin: 20px auto; max-width: 60%;" />
 
-Primera clase: Valoración
+Séptima clase: Valoración
 
  <img src="/images/xp/crc7.png" 
      alt="crc7" 
