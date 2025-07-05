@@ -88,8 +88,24 @@ El Scrum Board Actualizado refleja el progreso en tiempo real del equipo, mostra
 #### 13.8. Prototipos
 Un prototipo es una versión preliminar del software creada rápidamente para visualizar y validar los requisitos del usuario. Sirve como herramienta para obtener retroalimentación temprana, asegurando que el producto final cumpla con las expectativas antes de invertir más tiempo en el desarrollo completo. Los prototipos en XP suelen ser simples y enfocados en funcionalidades clave.
 
-<img src="/images/xp/prototipo.png" 
-     alt="Prototipo" 
+ 📷 Imágenes de [Prototipos]
+
+Pantalla de login para los dos tipos de usuario:
+
+<img src="/images/xp/prototipo_login.jpg" 
+     alt="Prototipo1" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+Página de inicio para administrador:
+
+<img src="/images/xp/prototipo_inicio_admin.jpg" 
+     alt="Prototipo2" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+Página de inicio para cliente:
+
+<img src="/images/xp/prototipo_inicio_usuario.jpg" 
+     alt="Prototipo2" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 13.9. Incremento de software
@@ -105,11 +121,11 @@ Se agregaron
 
 **Mejoras**
 
-Se cambiaron
+En el servicio, se crearon 3 métodos que generan la lógica de recompensas, además de modificar el método de crear reserva añadiéndole un flag para que dependa desde donde se llama al método
 
-<img src="/images/xp/mejora.png" 
+<img src="/images/xp/logica_recompensas.jpg" 
      alt="Mejoras" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
+     style="display: block; margin: 20px auto; max-width: 80%;" />
 
 **Correción de errores**
 

@@ -38,7 +38,7 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 #### 8.3. Métodos de estimación 
 Se realizó una reunión realizando Planning Poker para las estimaciones de las historias de usuario.
 
-<img src="/images/sprint_2/planning_poker.jpg" 
+<img src="/images/xp/planing_poker1.jpg" 
      alt="Métodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -52,3 +52,46 @@ Se realizó las estimaciones en Jira para las funciones del software, desde la p
      alt="Métodos de estimación" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
+#### 8.5. Tarjetas CRC
+
+Primera clase: Usuario
+
+ <img src="/images/xp/crc1.png" 
+     alt="crc1" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+Segunda clase: Barbero
+
+ <img src="/images/xp/crc2.png" 
+     alt="crc2" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+Tercera clase: Reserva
+
+ <img src="/images/xp/crc3.png" 
+     alt="crc3" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+Primera clase: Servicio
+
+ <img src="/images/xp/crc4.png" 
+     alt="crc4" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+Primera clase: HorarioBarbero
+
+ <img src="/images/xp/crc5.png" 
+     alt="crc5" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+Primera clase: Authservice
+
+ <img src="/images/xp/crc6.png" 
+     alt="crc6" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+Primera clase: Valoración
+
+ <img src="/images/xp/crc7.png" 
+     alt="crc7" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
