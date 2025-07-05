@@ -81,7 +81,7 @@ En el proyecto de Sistema de gestion para barbería, la experiencia del equipo e
 #### 13.7. Scrumboard actualizado
 El Scrum Board Actualizado refleja el progreso en tiempo real del equipo, mostrando tareas pendientes, en progreso y completadas. Facilita la colaboración, la identificación de bloqueos y el seguimiento continuo del Sprint.
 
-<img src="/images/xp/scrumboard_xp.png" 
+<img src="/images/xp/scrumboard_fin.png" 
      alt="Scrumboard actualizado" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
@@ -113,15 +113,15 @@ Se entrega un software funcional e incrementalmente mejorado al cliente, cada ve
 
 **Nuevas funcionalidades**
 
-Se agregaron
+Se agregaron los filtros por fechas de inicio y fin para la busqueda de reservas.
 
-<img src="/images/xp/nuevo.png" 
+<img src="/images/xp/reporte_reserva.jpg" 
      alt="Nuevas funcionalidades" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Mejoras**
 
-En el servicio, se crearon 3 métodos que generan la lógica de recompensas, además de modificar el método de crear reserva añadiéndole un flag para que dependa desde donde se llama al método
+En el servicio, se crearon 3 métodos que generan la lógica de recompensas, además de modificar el método de crear reserva añadiéndole un flag para que dependa desde donde se llama al método.
 
 <img src="/images/xp/logica_recompensas.jpg" 
      alt="Mejoras" 
@@ -129,8 +129,8 @@ En el servicio, se crearon 3 métodos que generan la lógica de recompensas, ade
 
 **Correción de errores**
 
-Se corrigió
+Se modificó el método listarReservas para que la lógica maneje el envío del usuario para el administrador.
 
-<img src="/images/xp/correccion.png" 
+<img src="/images/xp/reporte_cliente.jpg" 
      alt="Correción de errores" 
      style="display: block; margin: 20px auto; max-width: 100%;" />

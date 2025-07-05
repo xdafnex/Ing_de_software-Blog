@@ -55,8 +55,15 @@ Un "Sprint Burnup Chart" muestra el trabajo completado y el alcance total del sp
 Esta gráfica se actualizará a medida que avanzamos en la iteración, permitiendo al equipo mantener una visión clara de las tareas completadas y las que están en progreso.
 
 📷 Imagen de [Burnup Chart]
-<img src="/images/xp/burnupchart_xp.png" 
-     alt="Sprint Burnup Chart" 
+
+<img src="/images/xp/sprint-burnupchart-finalizado.jpg" 
+     alt="Sprint Burnup Chart finalizado" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+**Sprint Burndown Chart finalizado**
+
+<img src="/images/xp/sprint-burndownchart-finalizado.jpg" 
+     alt="Sprint Burndown Chart finalizado" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 #### 14.6. Tres preguntas diarias
