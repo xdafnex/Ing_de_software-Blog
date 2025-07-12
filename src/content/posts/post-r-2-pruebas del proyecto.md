@@ -63,7 +63,6 @@ Estas recomendaciones permiten fortalecer el producto en calidad, seguridad, esc
 
 1. Arquitectura y Backend
 - Fortalecer la infraestructura con escalabilidad, balanceo de carga y monitoreo.
-- Asegurar la gestión segura de sesiones JWT.
 - Priorizar pruebas unitarias en funciones críticas como recompensas y reportes.
 
 2. Frontend y UX
@@ -73,7 +72,6 @@ Estas recomendaciones permiten fortalecer el producto en calidad, seguridad, esc
 
 3. Pruebas y calidad
 - Automatizar pruebas end-to-end y de aceptación para validar flujos reales.
-- Usar integración continua (CI) para prevenir errores antes del despliegue.
 - Verificar reportes e indicadores con datos reales en entornos de prueba.
 
 4. Seguridad y disponibilidad

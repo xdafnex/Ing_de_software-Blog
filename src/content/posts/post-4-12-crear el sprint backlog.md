@@ -60,11 +60,28 @@ Se realizó el seguimiento de la iteración utilizando el método Scrumboard, ya
 #### 12.8. Integración continua
 La Integración Continua es una práctica de desarrollo de software que implica la automatización de la integración de código de múltiples desarrolladores en un único repositorio compartido. Cada cambio es validado automáticamente mediante pruebas y compilaciones, lo que asegura la calidad del software de manera continua.
 
+**Repositorio Backend**
+
+<img src="/images/xp/repositorio_back.jpg" 
+     alt="Integracion continua back" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+**Repositorio Frondend**
+<img src="/images/xp/repositorio_front.png" 
+     alt="Integracion continua back" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+<img src="/images/xp/frontend.jpg" 
+     alt="Integracion continua back" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 Los módulos dentro del código se encuentra de la siguiente manera:
 
-**Backend**
+#### Despliegue continuo
 
-El backend representa la lógica de negocio y la gestión de datos del sistema. Es el núcleo que conecta la interfaz con la base de datos, proporcionando funcionalidades esenciales.
+En este apartado se encuentran los servidores donde se despliega el proyecto
+
+**Backend**
 
 <img src="/images/xp/integracion1.jpg" 
      alt="Integracion continua back" 
