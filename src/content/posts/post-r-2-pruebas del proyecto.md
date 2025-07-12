@@ -40,15 +40,20 @@ Las pruebas End-to-End (E2E) son un tipo de prueba que verifica todo el flujo de
      alt="Pruebas end to end" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
+##### **Documento adjunto:**
+ 🗎 [Pruebas del proyecto](https://drive.google.com/file/d/1BJUugup2faPw7U61XrBlvQJLNqtvNSZe/view?usp=sharing)
+
 Las pruebas E2E aseguran que el sistema funciona como un todo, desde la entrada del usuario hasta la salida final, a continuación se muestra un video realizado del mismo.
 
-**Flujo completo de la aplicación como administrador**
+##### **Videos del flujo completo de la aplicación:**
 
-[Video de app vista de administrador](https://drive.google.com/file/d/17n7YHU9oWQVkVqsqImeawrmQF-jmVhgw/view?usp=sharing)
+1. **Flujo completo de la aplicación como administrador**
 
-**Flujo completo de la aplicación como usuario**
+🗎 [Video de app vista de administrador](https://drive.google.com/file/d/17n7YHU9oWQVkVqsqImeawrmQF-jmVhgw/view?usp=sharing)
 
-[Video de app vista de usuario](https://drive.google.com/file/d/17qtae_JqyUiZ5vSqkdDpBdZ90RQ93oK3/view?usp=drive_link)
+2. **Flujo completo de la aplicación como usuario**
+
+🗎 [Video de app vista de usuario](https://drive.google.com/file/d/17qtae_JqyUiZ5vSqkdDpBdZ90RQ93oK3/view?usp=drive_link)
 
 ### Salidas
 
