@@ -36,6 +36,10 @@ La reunión de retrospectiva del proyecto es una reunión para determinar las fo
 
  🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVJerwjMA=/?share_link_id=754926746580)
 
+<img src="/images/sprint_2/reunion_team.png" 
+     alt="Reunión retrospectiva del proyecto" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 ### Salidas
 
 #### 1.4. Agreed Actionable Improvements
@@ -46,7 +50,7 @@ La reunión de retrospectiva del proyecto es una reunión para determinar las fo
 #### 1.5. Assigned Action Items y fechas límite
 
 ##### **Documento adjunto:**
- 🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/16f0y_8pM4WOSZxDx-R0NMB7Coa02UQ5Tx6kEWbSnNhQ/edit?usp=sharing )
+ 🗎 [Assigned Action Items y fechas límite](https://docs.google.com/spreadsheets/d/16f0y_8pM4WOSZxDx-R0NMB7Coa02UQ5Tx6kEWbSnNhQ/edit?usp=sharing )
 
 #### 1.6. Lecciones aprendidas
 
