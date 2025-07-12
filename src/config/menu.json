@@ -17,6 +17,10 @@
       "url": "/xp"
     },
     {
+      "name": "Retro",
+      "url": "/retro"
+    },
+    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,

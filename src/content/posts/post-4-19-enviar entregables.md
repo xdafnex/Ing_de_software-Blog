@@ -1,5 +1,5 @@
 ---
-title: "18. Enviar entregables"
+title: "19. Enviar entregables"
 meta_title: ""
 description: "meta description"
 date: 2025-05-17T18:00:00+00:00
@@ -12,20 +12,20 @@ categories: ["xp"]
 
 ### Entradas
 
-#### 18.1. Jefe de Proyecto
+#### 19.1. Jefe de Proyecto
 
 Smith Seleni Ramos Sanchez, es el Jefe de Proyecto en base a su experiencia y participación en cursos anteriores y cercanía al establecimiento, lo cual la hace la más apropiada para representar la voz del cliente.
 
-#### 18.2. Cliente
+#### 19.2. Cliente
 Jheremy Solis Quispe, es el dueño de la barbería y trabajador, así como también cliente. A su vez, también son los dueños de la barbería, los dueños de la barbería, y los dueños de la barbería.
 
-#### 18.3. Entregables aceptados
+#### 19.3. Entregables aceptados
 
 ##### **Documento adjunto:**
  🗎 [Entregables aceptados](https://drive.google.com/file/d/1JjFzn_1DyuqGl1GVqY3zNR7ciOPTONjv/view?usp=sharing)
 
 
-#### 18.4. Cronograma de planificación de lanzamiento
+#### 19.4. Cronograma de planificación de lanzamiento
 
 | Fecha | Evento/Hito | Descripción | Entregable / Resultado |
 | ----- | ------ | ------ | ------ |
@@ -38,7 +38,7 @@ Jheremy Solis Quispe, es el dueño de la barbería y trabajador, así como tambi
 
 ### Herramientas
 
-#### 18.5. Métodos de desplazamiento organizacional 
+#### 19.5. Métodos de desplazamiento organizacional 
 Los métodos de desplazamiento organizacional permiten a las empresas reorganizar a su personal de manera estratégica para mejorar el desempeño, adaptarse a cambios internos o externos y aprovechar mejor el talento disponible. A través de acciones como reubicaciones, promociones o rotaciones, se busca mantener la eficiencia operativa, motivar a los colaboradores y responder de forma flexible a las necesidades del negocio.
 
 ##### **Documento adjunto:**
@@ -46,7 +46,7 @@ Los métodos de desplazamiento organizacional permiten a las empresas reorganiza
 
 ### Salidas
 
-#### 18.6. Acuerdos de entregables funcionales
+#### 19.6. Acuerdos de entregables funcionales
 
 ##### **Documento adjunto:**
  🗎 [Acuerdos de entregables funcionales](https://docs.google.com/document/d/1blCHAimw9BP0bfa-hY1mtkKM1hZBDssxpp0kC36Nax4/edit?usp=sharing)
