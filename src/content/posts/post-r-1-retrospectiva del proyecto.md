@@ -22,53 +22,33 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 - Desarrollador Móvil 1: Diego Caballero
 - Desarrollador Móvil 2: Andre Fernandez
 
-#### 1.2. Tester identificado
-
-Con las entradas obtenidas anteriormente, se ha tomado la siguiente decisión en la elección de Tester:
-
-<img src="/images/xp/tester.png" 
-     alt="Selección de Tester" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-#### 1.3. Pruebas end to end
-
-<img src="/images/xp/e2e.jpg" 
-     alt="Pruebas end to end" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-#### 1.4. Pruebas de integración
-
-<img src="/images/xp/integracion.jpg" 
-     alt="Pruebas de integración" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-### Herramientas
-
-#### 1.5. Reunión retrospectiva del proyecto
-La reunión de retrospectiva del proyecto es una reunión para determinar las formas en las que la colaboración y eficacia del equipo puede mejorarse en futuros proyectos. También se analizan las oportunidades positivas, negativas y potenciales para mejorar.
-
- 🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVJerwjMA=/?share_link_id=754926746580)
-
-### Salidas
-
-#### 1.6. Agreed Actionable Improvements
-
-##### **Documento adjunto:**
- 🗎 [Agreed Actionable Improvements](https://drive.google.com/file/d/1jf0-C1jj2O-vxFQOLiz9tEewwV4o-Smc/view?usp=sharing)
-
-#### 1.7. Assigned Action Items y fechas límite
-
-##### **Documento adjunto:**
- 🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/16f0y_8pM4WOSZxDx-R0NMB7Coa02UQ5Tx6kEWbSnNhQ/edit?usp=sharing )
-
-#### 1.8. Mockup de arquitectura final
+#### 1.2. Mockup de arquitectura final
 En el siguiente mockup se detalla el bosquejo de la arquitectura del proyecto.
 
 <img src="/images/xp/mockup_arqui.jpg" 
      alt="Mockup de arquitectura final" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-#### 1.9. Lecciones aprendidas
+### Herramientas
+
+#### 1.3. Reunión retrospectiva del proyecto
+La reunión de retrospectiva del proyecto es una reunión para determinar las formas en las que la colaboración y eficacia del equipo puede mejorarse en futuros proyectos. También se analizan las oportunidades positivas, negativas y potenciales para mejorar.
+
+ 🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVJerwjMA=/?share_link_id=754926746580)
+
+### Salidas
+
+#### 1.4. Agreed Actionable Improvements
+
+##### **Documento adjunto:**
+ 🗎 [Agreed Actionable Improvements](https://drive.google.com/file/d/1jf0-C1jj2O-vxFQOLiz9tEewwV4o-Smc/view?usp=sharing)
+
+#### 1.5. Assigned Action Items y fechas límite
+
+##### **Documento adjunto:**
+ 🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/16f0y_8pM4WOSZxDx-R0NMB7Coa02UQ5Tx6kEWbSnNhQ/edit?usp=sharing )
+
+#### 1.6. Lecciones aprendidas
 
 1. La experiencia del usuario se ve fuertemente afectada por variables externas (como la conexión a internet)
 
@@ -97,32 +77,3 @@ Aprendizaje: Las medidas preventivas como validaciones, reintentos automáticos 
 7. La mejora continua depende de medir, revisar y adaptar
 
 Aprendizaje: Las soluciones de mitigación no son estáticas. Es necesario revisar su efectividad con métricas (como tiempos de respuesta, logs de error, tasas de éxito) y ajustarlas conforme evolucionan el producto y sus usuarios.
-
-#### 1.10. Recomendaciones generales
-
-Estas recomendaciones permiten fortalecer el producto en calidad, seguridad, escalabilidad y usabilidad, garantizando una mejor experiencia para los usuarios y una operación más eficiente para los trabajadores y el administrador de la barbería.
-
-1. Arquitectura y Backend
-- Fortalecer la infraestructura con escalabilidad, balanceo de carga y monitoreo.
-- Asegurar la gestión segura de sesiones JWT.
-- Priorizar pruebas unitarias en funciones críticas como recompensas y reportes.
-
-2. Frontend y UX
-- Optimizar la app para móviles de gama baja (rendimiento y compatibilidad).
-- Agregar validaciones visuales preventivas para evitar errores del usuario.
-- Diseñar pensando en fallos de conexión: feedback visual y tolerancia offline.
-
-3. Pruebas y calidad
-- Automatizar pruebas end-to-end y de aceptación para validar flujos reales.
-- Usar integración continua (CI) para prevenir errores antes del despliegue.
-- Verificar reportes e indicadores con datos reales en entornos de prueba.
-
-4. Seguridad y disponibilidad
-- Implementar copias de seguridad automáticas y procedimientos de restauración.
-- Proteger los datos sensibles mediante cifrado y control de accesos.
-- Aplicar HTTPS y buenas prácticas de seguridad desde el inicio.
-
-5. Gestión y evolución
-- Documentar procesos clave para facilitar respuesta ante incidentes.
-- Analizar métricas como tiempos de respuesta y errores para mejorar.
-- Adoptar una cultura de mejora continua con revisión periódica de soluciones.

@@ -153,43 +153,147 @@ Para la aceptación de los entregables, el equipo xp tendrá que pasar satisfact
 ##### **Documento adjunto:**
  🗎 [Criterios de pruebas de aceptación](https://docs.google.com/document/d/15BLvDB9hT_dUe2SBTFoJC26M7Xf-piyAaMVxMbHfbIg/edit?usp=sharing)
 
-#### 16.12. Pruebas de aceptación
+#### 17.12. Pruebas de aceptación
 Se realizan pruebas para asegurar que el software cumpla con los requisitos del cliente y las expectativas de negocio.
 
-**Historia de Usuario N° 4.1**
+##### **Historia de Usuario N° 4.1**
 - Historial de Citas (Cliente)
 
-<img src="/images/xp/aceptacion1.jpg" 
-     alt="Historia de Usuario 4.1" 
+**Caso de prueba 1.1:**
+
+ Mostrar historial de citas con reservas existentes
+
+<img src="/images/xp/p11.png" 
+     alt="Historia de Usuario 4.11" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-**Historia de Usuario N° 4.2**
+[Video de caso de prueba 1.1](https://drive.google.com/file/d/1al1CCpmUoCiRqV4w4m5w8xbza9n-0BFL/view?usp=sharing)
+
+**Caso de Prueba 1.2:**
+
+ Mostrar historial de citas sin reservas existentes.
+
+<img src="/images/xp/p12.png" 
+     alt="Historia de Usuario 4.12" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 1.2](https://drive.google.com/file/d/1_pgYhysXavdLQgwlL3AHx49vugCBaCcP/view?usp=sharing)
+
+##### **Historia de Usuario N° 4.2**
+
 - Lógica de Recompensas
 
-<img src="/images/xp/aceptacion2.jpg" 
-     alt="Historia de Usuario 4.2" 
+**Caso de Prueba 2.1:**
+
+Validar opción de usar recompensa al reservar.
+
+<img src="/images/xp/p21.png" 
+     alt="Historia de Usuario 4.21" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-**Historia de Usuario N° 4.3**
+[Video de caso de prueba 2.1](https://drive.google.com/file/d/1r6C5uB8I6EBRaDmqDm-EpyeD6y16RdOF/view?usp=drive_link)
+
+**Caso de Prueba 2.2:**
+
+ Verificar acumulación de citas solo para reservas realizadas.
+
+<img src="/images/xp/p22.png" 
+     alt="Historia de Usuario 4.22" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 2.2](https://drive.google.com/file/d/1flQ_HHSV7uvd1efQmo2DENlyIwPYJ9-Z/view?usp=drive_link)
+
+**Caso de Prueba 2.3:**
+
+ Verificar reseteo de barra de recompensa después de canje.
+
+<img src="/images/xp/p23.png" 
+     alt="Historia de Usuario 4.23" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 2.3](https://drive.google.com/file/d/1r6C5uB8I6EBRaDmqDm-EpyeD6y16RdOF/view?usp=drive_link)
+
+##### **Historia de Usuario N° 4.3**
+
 - Indicador de Progreso
 
-<img src="/images/xp/aceptacion3.jpg" 
-     alt="Historia de Usuario 4.3" 
+**Caso de Prueba 3.1:**
+
+ Verificar llenado de barra de recompensa (N < 7 reservas).
+
+<img src="/images/xp/p31.png" 
+     alt="Historia de Usuario 4.31" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-**Historia de Usuario N° 4.4**
+[Video de caso de prueba 3.1](https://drive.google.com/file/d/1YQdf3cvpaOfOW0EzNMopcLjV87p5dB-9/view?usp=drive_link)
+
+##### **Historia de Usuario N° 4.4**
+
 - Reporte de Ingresos Total (Admin)
 
-<img src="/images/xp/aceptacion4.jpg" 
-     alt="Historia de Usuario 4.4" 
+**Caso de Prueba 4.1:**
+
+ Generar reporte de ingresos para un rango de fechas con datos.
+
+<img src="/images/xp/p41.png" 
+     alt="Historia de Usuario 4.41" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-**Historia de Usuario N° 4.5**
+[Video de caso de prueba 4.1](https://drive.google.com/file/d/1-Omt6iyX0s23kBDOjQH79hSK1DUxz7Y1/view?usp=drive_link)
+
+**Caso de Prueba 4.2:**
+
+ Generar reporte de ingresos con fecha inicial y final iguales.
+
+<img src="/images/xp/p42.png" 
+     alt="Historia de Usuario 4.42" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 4.2](https://drive.google.com/file/d/1xPS9rwczMjKjGbCVCiCqtpbC7-5ebkrr/view?usp=drive_link)
+
+**Caso de Prueba 4.3:**
+
+ Generar reporte de ingresos filtrando por servicio específico.
+
+<img src="/images/xp/p43.png" 
+     alt="Historia de Usuario 4.43" 
+     style="display: block; margin: 20px auto; max-width: 60%;" />
+
+[Video de caso de prueba 4.3](https://drive.google.com/file/d/1sFVo6aVeCfyvZNK598Pl5T4nzmIGL7j4/view?usp=drive_link)
+
+**Caso de Prueba 4.4:**
+
+ Generar reporte con rango de fechas inválido (Fecha Inicial > Fecha Final).
+
+<img src="/images/xp/p44.png" 
+     alt="Historia de Usuario 4.44" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 4.4](https://drive.google.com/file/d/17m1-1AtPdMiCei5CG3lCyiNiUVw5_r3n/view?usp=drive_link)
+
+##### **Historia de Usuario N° 4.5**
+
 - Reporte por Cliente (Admin)
 
-<img src="/images/xp/aceptacion5.jpg" 
-     alt="Historia de Usuario 4.5" 
+**Caso de Prueba 5.1:**
+
+ Verificar el reporte de un usuario que no tiene citas realizadas.
+
+<img src="/images/xp/p51.png" 
+     alt="Historia de Usuario 4.51" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 5.1](https://drive.google.com/file/d/1iZ2o4C9bTIkYeLbVlfNVN_IpA9UKI89-/view?usp=drive_link)
+
+**Caso de Prueba 5.2:**
+
+ Verificar el reporte de un usuario con citas realizadas.
+
+<img src="/images/xp/p52.png" 
+     alt="Historia de Usuario 4.52" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+[Video de caso de prueba 5.2](https://drive.google.com/file/d/1SV1i4qpZppu7rJr_YrssZIwZeyYm-Bhv/view?usp=drive_link)
 
 ### Salidas
 
