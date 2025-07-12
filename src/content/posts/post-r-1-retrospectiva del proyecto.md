@@ -1,5 +1,5 @@
 ---
-title: "1. Retrospectiva de iteración"
+title: "1. Retrospectiva del proyecto"
 meta_title: ""
 description: "meta description"
 date: 2025-05-17T17:00:00+00:00
@@ -22,27 +22,53 @@ De los puntos anteriores hemos obtenido el equipo completo para el desarrollo de
 - Desarrollador Móvil 1: Diego Caballero
 - Desarrollador Móvil 2: Andre Fernandez
 
+#### 1.2. Tester identificado
+
+Con las entradas obtenidas anteriormente, se ha tomado la siguiente decisión en la elección de Tester:
+
+<img src="/images/xp/tester.png" 
+     alt="Selección de Tester" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+#### 1.3. Pruebas end to end
+
+<img src="/images/xp/e2e.jpg" 
+     alt="Pruebas end to end" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+#### 1.4. Pruebas de integración
+
+<img src="/images/xp/integracion.jpg" 
+     alt="Pruebas de integración" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
 ### Herramientas
 
-#### 1.2. Reunión retrospectiva de la iteración
+#### 1.5. Reunión retrospectiva del proyecto
 La reunión de retrospectiva del proyecto es una reunión para determinar las formas en las que la colaboración y eficacia del equipo puede mejorarse en futuros proyectos. También se analizan las oportunidades positivas, negativas y potenciales para mejorar.
 
  🗎 [Link de Retrospectiva en Miro](https://miro.com/app/board/uXjVJerwjMA=/?share_link_id=754926746580)
 
 ### Salidas
 
-#### 1.3. Agreed Actionable Improvements
+#### 1.6. Agreed Actionable Improvements
 
 ##### **Documento adjunto:**
  🗎 [Agreed Actionable Improvements](https://drive.google.com/file/d/1jf0-C1jj2O-vxFQOLiz9tEewwV4o-Smc/view?usp=sharing)
 
-#### 1.4. Assigned Action Items y fechas límite
+#### 1.7. Assigned Action Items y fechas límite
 
 ##### **Documento adjunto:**
  🗎 [Agreed Actionable Improvements](https://docs.google.com/spreadsheets/d/16f0y_8pM4WOSZxDx-R0NMB7Coa02UQ5Tx6kEWbSnNhQ/edit?usp=sharing )
 
+#### 1.8. Mockup de arquitectura final
+En el siguiente mockup se detalla el bosquejo de la arquitectura del proyecto.
 
-#### 1.5. Lecciones aprendidas
+<img src="/images/xp/mockup_arqui.jpg" 
+     alt="Mockup de arquitectura final" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+#### 1.9. Lecciones aprendidas
 
 1. La experiencia del usuario se ve fuertemente afectada por variables externas (como la conexión a internet)
 
@@ -72,7 +98,8 @@ Aprendizaje: Las medidas preventivas como validaciones, reintentos automáticos 
 
 Aprendizaje: Las soluciones de mitigación no son estáticas. Es necesario revisar su efectividad con métricas (como tiempos de respuesta, logs de error, tasas de éxito) y ajustarlas conforme evolucionan el producto y sus usuarios.
 
-#### 1.6. Recomendaciones generales
+#### 1.10. Recomendaciones generales
+
 Estas recomendaciones permiten fortalecer el producto en calidad, seguridad, escalabilidad y usabilidad, garantizando una mejor experiencia para los usuarios y una operación más eficiente para los trabajadores y el administrador de la barbería.
 
 1. Arquitectura y Backend

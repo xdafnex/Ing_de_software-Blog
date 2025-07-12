@@ -53,30 +53,24 @@ La reunión de revisión de riegos brinda una oportunidad para que el equipo XP 
 
 Objetivo: Evitar la pérdida de reservas cuando el cliente tiene problemas de internet.
 
-- 1.1. Implementar funcionalidades offline que permitan llenar formularios sin conexión.
+- 1.1. Mostrar mensajes claros de error cuando haya fallas de conexión.
 
-- 1.2. Mostrar mensajes claros de error cuando haya fallas de conexión.
-
-- 1.3. Activar un modo "reintentar automáticamente" al recuperar la conexión.
+- 1.2. Activar un modo "reintentar automáticamente" al recuperar la conexión.
 
 Plazo estimado: 1 semana
 
-Responsable: Equipo Frontend
+Responsable: Equipo de Desarrollo
 
 
 **Paso 2: Mejorar la carga de imágenes al servidor (Cloudinary)**
 
 Objetivo: Evitar la pérdida de comprobantes de pago por fallos en el envío.
 
-- 2.1. Validar el tipo y tamaño de archivo antes de subir.
-
-- 2.2. Incluir una lógica de reintento automático si la subida falla.
-
-- 2.3. Mostrar al usuario el estado de la subida y un botón de "reintentar manualmente".
+- 2.1. Incluir una lógica de reintento automático si la subida falla.
 
 Plazo estimado: 4 días
 
-Responsable: Desarrollador Backend
+Responsable: Arian Sevillano
 
 
 **Paso 3: Prevenir la pérdida de datos en base de datos**
@@ -91,19 +85,17 @@ Objetivo: Proteger la información crítica del sistema (reservas, usuarios, pag
 
 Plazo estimado: 2 semanas
 
-Responsable: DevOps / DBA
+Responsable: Equipo de desarrollo
 
 
 **Paso 4: Fortalecer la disponibilidad del servidor**
 
 Objetivo: Asegurar que la app siempre esté disponible para el usuario.
 
-- 4.1. Usar proveedores con alta disponibilidad (HA) (como AWS, Azure, etc.).
+- 4.1. Configurar herramientas de monitoreo en tiempo real (Ej: UptimeRobot, Datadog).
 
-- 4.2. Configurar herramientas de monitoreo en tiempo real (Ej: UptimeRobot, Datadog).
-
-- 4.3. Implementar escalado automático y balanceo de carga.
+- 4.2. Implementar escalado automático y balanceo de carga.
 
 Plazo estimado: 3 semanas
 
-Responsable: Equipo DevOps / Arquitectura
+Responsable: Equipo de desarrollo

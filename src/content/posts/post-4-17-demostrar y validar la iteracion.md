@@ -60,12 +60,36 @@ Para la cuarta iteración, tenemos entregables de tipo front y back, como se mue
 #### 17.5. Programación por parejas
 Se basa en el principio de que dos desarrolladores trabajan juntos en una misma estación de trabajo, compartiendo responsabilidades y mejorando la calidad del código.
 
+**Historial de reservas**
+
+El equipo de desarrollo ( Arian Sevillano y Andre Fernandez) se reunieron para discutir partes del código que aun no quedaban claras sobre el historial de reservas realizadas por el cliente.
+
 <img src="/images/xp/program_pareja1.jpg" 
      alt="Programación por parejas" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
+**Vista usuario**
+
+Arian Sevillano se encuentra cumpliendo la función de navigator, mientras que Andre Fernandez se enfoca en la implementación inmediata.
+
 <img src="/images/xp/program_pareja2.jpg" 
-     alt="Programación por parejas" 
+     alt="Programación por parejas2" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+**Reporte por fechas**
+
+Se realiza la práctica de programación en parejas para tareas críticas o complejas como lo son los reportes para el administrador.
+
+<img src="/images/xp/program_pareja3.jpg" 
+     alt="Programación por parejas3" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+**Reporte por cliente**
+
+Diego Caballero escribe el código, cumpliendo la función como driver, mientras que Arian Sevillano apoya en la codificación de los reportes filtrados por cliente, realizando el papel como navigator.
+
+<img src="/images/xp/program_pareja4.jpg" 
+     alt="Programación por parejas4" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 
@@ -129,85 +153,47 @@ Para la aceptación de los entregables, el equipo xp tendrá que pasar satisfact
 ##### **Documento adjunto:**
  🗎 [Criterios de pruebas de aceptación](https://docs.google.com/document/d/15BLvDB9hT_dUe2SBTFoJC26M7Xf-piyAaMVxMbHfbIg/edit?usp=sharing)
 
-#### 17.12. Prueba unitaria
-Los desarrolladores escriben pruebas automáticas para cada componente del código, asegurando que cada unidad funcione correctamente antes de integrarse.
-
-**Historia de Usuario N° 4.1**
-- Historial de Citas (Cliente)
-
-<img src="/images/xp/reserva_progreso.jpg" 
-     alt="Historia de Usuario 4.1" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-**Historia de Usuario N° 4.2**
-- Lógica de Recompensas
-
-<img src="/images/xp/filtro_recompensa.jpg" 
-     alt="Historia de Usuario 4.2" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-**Historia de Usuario N° 4.3**
-- Indicador de Progreso
-
-<img src="/images/xp/progreso.png" 
-     alt="Historia de Usuario 4.3" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-**Historia de Usuario N° 4.4**
-- Reporte de Ingresos Total (Admin)
-
-<img src="/images/xp/reporte_ganancia.jpg" 
-     alt="Historia de Usuario 4.4" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-**Historia de Usuario N° 4.5**
-- Reporte por Cliente (Admin)
-
-<img src="/images/xp/reportes.jpg" 
-     alt="Historia de Usuario 4.5" 
-     style="display: block; margin: 20px auto; max-width: 100%;" />
-
-#### 16.13. Prueba de aceptación
+#### 16.12. Pruebas de aceptación
 Se realizan pruebas para asegurar que el software cumpla con los requisitos del cliente y las expectativas de negocio.
 
 **Historia de Usuario N° 4.1**
 - Historial de Citas (Cliente)
 
-<img src="/images/xp/historial.jpg" 
+<img src="/images/xp/aceptacion1.jpg" 
      alt="Historia de Usuario 4.1" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.2**
 - Lógica de Recompensas
 
-<img src="/images/xp/consultar_recompensa.jpg" 
+<img src="/images/xp/aceptacion2.jpg" 
      alt="Historia de Usuario 4.2" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.3**
 - Indicador de Progreso
 
-<img src="/images/xp/recompensa.jpg" 
+<img src="/images/xp/aceptacion3.jpg" 
      alt="Historia de Usuario 4.3" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.4**
 - Reporte de Ingresos Total (Admin)
 
-<img src="/images/xp/reporte_ingresos.jpg" 
+<img src="/images/xp/aceptacion4.jpg" 
      alt="Historia de Usuario 4.4" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 **Historia de Usuario N° 4.5**
 - Reporte por Cliente (Admin)
 
-<img src="/images/xp/reporte_obtener.jpg" 
+<img src="/images/xp/aceptacion5.jpg" 
      alt="Historia de Usuario 4.5" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ### Salidas
 
-#### 17.14. Entregables aceptados
+#### 17.13. Entregables aceptados
 Luego de que el proyecto se dé por terminado y aceptado los entregables, tenemos el documento de entregables aceptados.
 
 ##### **Documento adjunto:**
