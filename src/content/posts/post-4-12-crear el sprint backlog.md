@@ -66,21 +66,26 @@ Los módulos dentro del código se encuentra de la siguiente manera:
 
 El backend representa la lógica de negocio y la gestión de datos del sistema. Es el núcleo que conecta la interfaz con la base de datos, proporcionando funcionalidades esenciales.
 
-<img src="/images/xp/repositorio_back.jpg" 
+<img src="/images/xp/integracion1.jpg" 
      alt="Integracion continua back" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-**Frontend**
+<img src="/images/xp/integracion2.jpg" 
+     alt="Integracion continua back" 
+     style="display: block; margin: 20px auto; max-width: 100%;" />
+
+**Landing Page**
 
 El frontend es la interfaz gráfica que interactúa directamente con los usuarios. Su objetivo es garantizar una experiencia intuitiva y eficiente al momento de realizar acciones como préstamos o devoluciones.
 
-<img src="/images/xp/frontend.jpg" 
-     alt="Integracion continua front" 
+<img src="/images/xp/integracion3.jpg" 
+     alt="Integracion continua landing" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
 
-<img src="/images/xp/repositorio_front.png" 
-     alt="Integracion continua front" 
+<img src="/images/xp/integracion4.jpg" 
+     alt="Integracion continua landing" 
      style="display: block; margin: 20px auto; max-width: 100%;" />
+
 ### Salidas
 
 #### 12.9. Backlog de la iteración
